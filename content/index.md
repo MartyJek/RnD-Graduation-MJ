@@ -1,4 +1,5 @@
 ---
-title: Research Garden
+title: Research Garden: Minor Digital Craft
 ---
+
 
