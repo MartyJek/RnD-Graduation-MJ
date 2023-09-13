@@ -2,8 +2,8 @@ ___
 [[Digital Craft Minor 23 ⭐]]
 # INFO
 
-**Week 2 (36): Sep 7: Context & Common Ground (Critical Reading 01)  
-****theme: Crafting systems: current debates**
+Week 2 (36): Sep 7: Context & Common Ground (Critical Reading 01)  
+Theme: Crafting systems: current debates
 
 **Context  
 **We will discuss and explore the context of the course, relating to critical perspectives on technology, the perspective of systems theory (Wiener) and the concept of autopoesis (Maturana & Varela).
