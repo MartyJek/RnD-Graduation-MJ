@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "null",
+      provider: "plausible",
     },
     baseUrl: "martyjek.github.io/DC-Research-MJ",
     ignorePatterns: ["private", "templates", ".obsidian", "Files"],
