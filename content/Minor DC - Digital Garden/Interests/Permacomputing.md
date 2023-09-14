@@ -1,7 +1,6 @@
-**Source**: [Principles](http://permacomputing.net/Principles/)
-**Tags**: #permacomputing 
-**Links**: [[Permaculture]] 
-**Follow-up reads**:  [No Silver Bullet - Wikipedia](https://en.wikipedia.org/wiki/No_Silver_Bullet)
+**Source**: [permacomputing.net](http://permacomputing.net)
+
+**Paper**: [[Permacomputing Aesthetics]]
 ___
 
 From [[Permaculture]] + Computing 
@@ -10,12 +9,7 @@ From [[Permaculture]] + Computing
 
 >Understandability is aesthetics, virtual does not mean immaterial and doing things with less is not _a return to the past_. We want to investigate what a permacomputing way of life could be, and what sort of transformative computational culture and aesthetics it could bring forward.
 
-
-# Paper
-
-[[pmc_aesthetics-31686649459875.pdf]]
-
-# [[Design Principles]]
+# Design Principles
 
 ## Care For Life
 

@@ -6,9 +6,14 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 
 
 # Interests
+- [[Permacomputing]]
 
-# [[Literature]]
-- [[Permacomputing Aesthetics]]
+# Literature 
+
+Title | Author | Year | Status
+-- | -- | -- | --
+[[Permacomputing Aesthetics]] | A Mansoux, B Howell, D Barok, V Heikkilä | 2023 | Processed
+
 
 
 # Timeline
