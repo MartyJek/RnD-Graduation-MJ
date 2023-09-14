@@ -16,7 +16,7 @@ In this paper, we argue for the potential of ==permacomputing as a rich framewor
 
 # Reflection
 
-
+In this piece the authors 
 
 ---
 
