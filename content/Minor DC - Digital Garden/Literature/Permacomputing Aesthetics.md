@@ -8,6 +8,7 @@ tags: []
 ---
 
 ---
+>Permacomputing could therefore be an effective cultural counter-voice to a digital aesthetic that encourages maximisation, e.g. high bandwidth, high resolution, more computing power at any cost, for anything, sensing and capturing more, while making less and less sense, ultimately rendering us insensitive to the harm and damage we legitimise
 
 # Abstract
 
@@ -16,7 +17,7 @@ In this paper, we argue for the potential of ==permacomputing as a rich framewor
 
 # Reflection
 
-In this piece the authors 
+In a near vengeful tone the authors of this piece strip apart the term of maximalist techno-aesthetics, 'aesthetics, that are the manifestation of technologies driven by the myth of perceptuaa term that defines the natural order of today's ICT world in which more pixels, more speed, 
 
 ---
 
@@ -26,6 +27,4 @@ Author(s): Aymeric Mansoux, Brendan Howell, Dušan Barok, Ville-Matias Heikkilä
 
 Year: 2023
 
-Source: [Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture · Ninth Computing within Limits 2023](https://limits.pubpub.org/pub/6loh1eqi/release/1)
-
-
+Source: [Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture · Ninth Computing within Limits 2023](https://limits.pubpub.org/pub/6loh1eqi/release/1
