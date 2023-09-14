@@ -17,7 +17,7 @@ In this paper, we argue for the potential of ==permacomputing as a rich framewor
 
 # Reflection
 
-In a near vengeful tone the authors of this piece strip apart the term of maximalist techno-aesthetics, 'aesthetics, that are the manifestation of technologies driven by the myth of perceptuaa term that defines the natural order of today's ICT world in which more pixels, more speed, 
+In a near vengeful tone the authors of this piece strip apart the term of maximalist techno-aesthetics: "Aesthetics, that are the manifestation of technologies driven by the myth of perpetual growth and infinite resources, aesthetics based on the everincreasing complexity and resource consumption of digital devices that seek to justify growth through self-referential legitimisation, regardless of necessity or ability to even function properly". They criticize corporate greed and the idea that "new is always better". Permacomputing, a combination of the words Permaculture and computing, seeks to be a practical framework that encourages limits and constraints in computer culture and creativity. In my own practices I've fallen into the trap of 'mesmerizing aesthetics', creating beautiful (but shallow) 3D CGI artwork that goes into a similar direction of ignorant maximisation. In the name of Permacomputing I am trying to reframe my practices into purposeful aesthetics with self-imposed constraints.
 
 ---
 
