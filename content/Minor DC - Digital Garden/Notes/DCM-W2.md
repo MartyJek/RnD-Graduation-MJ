@@ -1,10 +1,10 @@
 ___
 # INFO
 
-Week 2 (36): Sep 7: Context & Common Ground (Critical Reading 01)  
-Theme: Crafting systems: current debates
+**Week 2 (36): Sep 7: Context & Common Ground (Critical Reading 01)  
+Theme: Crafting systems: current debates**
 
-Context  
+**Context**
 We will discuss and explore the context of the course, relating to critical perspectives on technology, the perspective of systems theory (Wiener) and the concept of autopoesis (Maturana & Varela).
 
 [https://monoskop.org/images/3/35/Maturana_Humberto_Varela_Francisco_Autopoiesis_and_Congition_The_Realization_of_the_Living.pdf](https://monoskop.org/images/3/35/Maturana_Humberto_Varela_Francisco_Autopoiesis_and_Congition_The_Realization_of_the_Living.pdf)
