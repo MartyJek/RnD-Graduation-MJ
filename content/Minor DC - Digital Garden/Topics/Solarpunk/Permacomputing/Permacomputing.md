@@ -1,15 +1,17 @@
-**Source**: [permacomputing.net](http://permacomputing.net)
-
-**Paper**: [[Permacomputing Aesthetics]]
+**Source**: [Principles](http://permacomputing.net/Principles/)
+**Tags**: #permacomputing 
+**Links**: [[Topics/Solarpunk/Permaculture]] 
+**Follow-up reads**:  [No Silver Bullet - Wikipedia](https://en.wikipedia.org/wiki/No_Silver_Bullet)
 ___
 
-From [[Permaculture]] + Computing 
+From [[Topics/Solarpunk/Permaculture]] + Computing 
 
 >Can there be a place for computer and network technology in a world where humans contribute to the well-being of the biosphere rather than destroy it?
 
 >Understandability is aesthetics, virtual does not mean immaterial and doing things with less is not _a return to the past_. We want to investigate what a permacomputing way of life could be, and what sort of transformative computational culture and aesthetics it could bring forward.
 
-# Design Principles
+
+# [[Design Principles]]
 
 ## Care For Life
 
@@ -111,9 +113,9 @@ While operating locally and at present, be aware of the entire world-wide contex
 
 # [[Permacomputing Aesthetics]]
 
-(Paper)[[pmc_aesthetics-31686649459875.pdf]]
+**_[Paper](Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture · Ninth Computing within Limits 2023](https://limits.pubpub.org/pub/6loh1eqi/release/1)**_
 
-*Small is 1beautiful*: anti-[[maximalism]] 
+*Small is beautiful*: anti-[[maximalism]] 
 - low-detail, low complexity, lo-fi, low graphics
 - optimalism aka capped maximalism
 - [[Demoscene]]
@@ -122,7 +124,6 @@ While operating locally and at present, be aware of the entire world-wide contex
 
 > [!info]  In video games, not the fidelity is important but the enjoyment of the game itself.
 
-## Transgression and immersi
 ## Transgression and immersion
 
 **Transgression** and **immersion** are two oppositional ways to creatively relate to constraints, especially in the kind of digital art forms that appreciate constraints (chip music, [[Demoscene]], [pixel art](http://permacomputing.net/pixel_art/)).
