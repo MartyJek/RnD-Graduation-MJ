@@ -109,9 +109,11 @@ While operating locally and at present, be aware of the entire world-wide contex
 -   There is a place for both slow and fast, both gradual and one-shot processes. Don't look at all things through the same glasses.
 
 
-# Aesthetics
+# [[Permacomputing Aesthetics]]
 
-*Small is beautiful*: anti-[[maximalism]] 
+(Paper)[[pmc_aesthetics-31686649459875.pdf]]
+
+*Small is 1beautiful*: anti-[[maximalism]] 
 - low-detail, low complexity, lo-fi, low graphics
 - optimalism aka capped maximalism
 - [[Demoscene]]
@@ -120,6 +122,7 @@ While operating locally and at present, be aware of the entire world-wide contex
 
 > [!info]  In video games, not the fidelity is important but the enjoyment of the game itself.
 
+## Transgression and immersi
 ## Transgression and immersion
 
 **Transgression** and **immersion** are two oppositional ways to creatively relate to constraints, especially in the kind of digital art forms that appreciate constraints (chip music, [[Demoscene]], [pixel art](http://permacomputing.net/pixel_art/)).
