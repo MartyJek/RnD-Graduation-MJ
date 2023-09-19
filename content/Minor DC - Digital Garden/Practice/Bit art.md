@@ -1,6 +1,6 @@
+**Links**:
 
-**Links**: 
-___
+---
 
 # bitart - A procedural integer art generator
 
@@ -8,6 +8,6 @@ Inspired by [this post](https://www.metafilter.com/192164/Patterns), bitart crea
 
 It does this without resorting to evaluating strings as Ruby code.
 
-____
+---
 
 **Source**: https://botwiki.org/bot/bit-art-bot/

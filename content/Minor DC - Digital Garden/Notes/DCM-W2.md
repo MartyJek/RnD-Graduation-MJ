@@ -1,14 +1,12 @@
-___
 # INFO
 
-**Week 2 (36): Sep 7: Context & Common Ground (Critical Reading 01)  
+**Week 2 (36):** Sep 7: Context & Common Ground (Critical Reading 01)  
 Theme: Crafting systems: current debates**
 
 **Context**
 We will discuss and explore the context of the course, relating to critical perspectives on technology, the perspective of systems theory (Wiener) and the concept of autopoesis (Maturana & Varela).
 
 [https://monoskop.org/images/3/35/Maturana_Humberto_Varela_Francisco_Autopoiesis_and_Congition_The_Realization_of_the_Living.pdf](https://monoskop.org/images/3/35/Maturana_Humberto_Varela_Francisco_Autopoiesis_and_Congition_The_Realization_of_the_Living.pdf)
-
 
 Introduction: research  
 Introduction into the elements of artistic research, the Design Circle and references.  
@@ -33,7 +31,7 @@ Bring an article about the discourse about a current technological system that 
 
 - [x] Norbert Wiener ([[Cybernetics]]): Technologies as living systems
 
-- [ ] Doing research, conversation cycle 
+- [ ] Doing research, conversation cycle
 
 Article(s):
 
@@ -41,11 +39,8 @@ Article(s):
 https://arxiv.org/abs/1610.02484
 [[Permacomputing Aesthetics]]
 
+---
 
-___
-**Source**: 
-**Tags**: 
+**Source**:
+**Tags**:
 **Links**:
-
-
-

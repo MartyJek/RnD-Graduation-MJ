@@ -1,16 +1,13 @@
-
 ![[Pasted image 20230301214826.png]]
 
+> Permaculture is a philosophy of working with, rather than against nature; of protracted and thoughtful observation rather than protracted and thoughtless labor; and of looking at plants and animals in all their functions, rather than treating any area as a single product system.
+> — Bill Mollison[^1]
 
->Permaculture is a philosophy of working with, rather than against nature; of protracted and thoughtful observation rather than protracted and thoughtless labor; and of looking at plants and animals in all their functions, rather than treating any area as a single product system.
->— Bill Mollison[^1]
-
-___
+---
 
 **Wiki-definition:**
-*An approach to land management and settlement design that adopts arrangements observed in flourishing natural ecosystems.
-It includes a set of design principles derived using whole-[[Systems Thinking]]. It stands in opposition of industrial agriculture.*
-
+_An approach to land management and settlement design that adopts arrangements observed in flourishing natural ecosystems.
+It includes a set of design principles derived using whole-[[Systems Thinking]]. It stands in opposition of industrial agriculture._
 
 # Fields
 
@@ -18,7 +15,6 @@ It includes a set of design principles derived using whole-[[Systems Thinking]]
 Town planning
 Rewilding
 Community Resilience
-
 
 # Branches
 
@@ -29,8 +25,8 @@ Community Resilience
 integrated water resource management
 [[sustainable architecture]]
 
+---
 
-___
 **People**: [[Bill Mollison]] [[Davild Holmgren]]
 **Tags**: #sustainability #permacomputing
 **Related**:
@@ -39,5 +35,4 @@ ___
 [[Systems Thinking]]
 **Further Readings:**
 [Permaculture for Sceptics - The Permaculture Research Institute](https://www.permaculturenews.org/2021/03/11/permaculture-for-sceptics/)
-[academia-danubiana.net/wp-content/uploads/2012/05/2.12.09.01\_HARPER-A-critique-of-permaculture.pdf](http://academia-danubiana.net/wp-content/uploads/2012/05/2.12.09.01_HARPER-A-critique-of-permaculture.pdf)
-
+[academia-danubiana.net/wp-content/uploads/2012/05/2.12.09.01_HARPER-A-critique-of-permaculture.pdf](http://academia-danubiana.net/wp-content/uploads/2012/05/2.12.09.01_HARPER-A-critique-of-permaculture.pdf)
