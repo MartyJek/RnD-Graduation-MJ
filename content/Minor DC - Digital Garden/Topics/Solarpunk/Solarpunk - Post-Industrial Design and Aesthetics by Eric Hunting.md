@@ -107,3 +107,4 @@ ___
 https://blog.p2pfoundation.net/we-need-an-outquisition/2008/07/20
 https://www.wired.com/2008/07/imagine-you-wer/
 
+

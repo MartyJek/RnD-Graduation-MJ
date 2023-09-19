@@ -8,10 +8,8 @@ In contrast, **Yin hacking** accepts the aspects that are beyond rational cont
 
 Yang hacking is quite essential to computing. After all, computers are based on comprehensible and deterministic models that tiny pieces of nature are "forced" to follow. However, there are many kinds of systems where the yin way makes more sense (e.g. the behavior of neural networks is often very difficult to analyze rationally).
 
+---
 
-
-
-___
-**Source:** 
+**Source:**
 [Principles](http://permacomputing.net/Principles/)
-[[Permacomputing#Amplify awareness]] 
+[[Permacomputing#Amplify awareness]]
