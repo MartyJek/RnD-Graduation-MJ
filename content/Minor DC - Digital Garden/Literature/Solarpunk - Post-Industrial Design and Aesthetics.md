@@ -9,8 +9,6 @@ tags:
 KeyIdeas:
 ---
 
-
-
 ---
 
 ## Introduction
@@ -87,7 +85,7 @@ Solar kitchen of [Auroville India](https://auroville.org/)
 >A new cultural paradigm is emergent; cosmo-localization/localism: Design and share globally — Make locally.
 >It makes no sense anymore to ship bulky, fragile, wastefully packaged, finished goods long distances if you can simply transmit their designs for local production
 >
->&rarr; And this is why, in recent times, corporations have become so obsessed with the control of consumer behaviour and intellectual property. It's all they have left to maintain their old hegemonies in a world of dispersed digital production, where corporate designs must increasingly compete with open source ones coming from everywhere.
+> And this is why, in recent times, corporations have become so obsessed with the control of consumer behaviour and intellectual property. It's all they have left to maintain their old hegemonies in a world of dispersed digital production, where corporate designs must increasingly compete with open source ones coming from everywhere.
 
 ## Materials
 
