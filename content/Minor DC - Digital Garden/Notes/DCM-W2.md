@@ -24,14 +24,14 @@ Bring an article about the discourse about a current technological system that 
 
 # Class 1
 
-- [ ] Joseph Weizenbaum & Eliza Doolittle
+- [x] Joseph Weizenbaum & Eliza Doolittle
 
 # Class 2
 
-- [ ] Environmental robotics (Ivan Henriques)
-- [ ] Remaining human (vimeo, cybernetics)
+- [x] Environmental robotics (Ivan Henriques)
+- [x] Remaining human (vimeo, cybernetics)
 
-- [ ] Norbert Wiener ([[Cybernetics]]): Technologies as living systems
+- [x] Norbert Wiener ([[Cybernetics]]): Technologies as living systems
 
 - [ ] Doing research, conversation cycle 
 

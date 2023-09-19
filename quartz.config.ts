@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "martyjek.github.io/DC-Research-MJ",
-    ignorePatterns: ["private", "templates", ".obsidian", "Files"],
+    ignorePatterns: ["private", "Templates", ".obsidian", "assets"],
     defaultDateType: "created",
     theme: {
       typography: {
@@ -25,7 +25,7 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#59f9a0",
+          secondary: "#46D273",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
@@ -35,7 +35,7 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#59f9a0",
+          secondary: "#46D273",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },

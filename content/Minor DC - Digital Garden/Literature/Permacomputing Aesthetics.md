@@ -1,13 +1,18 @@
 ---
 Type: paper
+Title: "Permacomputing Aesthetics: Potential and Limits of Constraints\rin Computational Art, Design and Culture"
 Author: Aymeric Mansoux, Brendan Howell, Dušan Barok, Ville-Matias Heikkilä
 Year: 2023
 Status: processed
-KeyIdeas: 
-tags: []
+Subject: "permacomputing, aesthetics, computational culture, art, design, cultural\rproduction, constraints, environmentalism, electronic waste,\rre-use"
+tags:
+  - school/paper
 ---
 
----
+
+
+
+___
 
 >Permacomputing could therefore be an effective cultural counter-voice to a digital aesthetic that encourages maximisation, e.g. high bandwidth, high resolution, more computing power at any cost, for anything, sensing and capturing more, while making less and less sense, ultimately rendering us insensitive to the harm and damage we legitimise
 
@@ -18,14 +23,20 @@ In this paper, we argue for the potential of ==permacomputing as a rich framewor
 
 # Reflection
 
-In a near vengeful tone the authors of this piece strip apart the term of maximalist techno-aesthetics: "Aesthetics, that are the manifestation of technologies driven by the myth of perpetual growth and infinite resources, aesthetics based on the everincreasing complexity and resource consumption of digital devices that seek to justify growth through self-referential legitimisation, regardless of necessity or ability to even function properly". They criticize corporate greed and the idea that "new is always better". Permacomputing, a combination of the words Permaculture and computing, seeks to be a practical framework that encourages limits and constraints in computer culture and creativity. In my own practices I've fallen into the trap of 'mesmerizing aesthetics', creating beautiful (but shallow) 3D CGI artwork that goes into a similar direction of ignorant maximisation. In the name of Permacomputing I am trying to reframe my practices into purposeful aesthetics with self-imposed constraints.
+In a near vengeful tone the authors of this piece strip apart the term of maximalist techno-aesthetics: "Aesthetics, that are the manifestation of technologies driven by the myth of perpetual growth and infinite resources, aesthetics based on the everincreasing complexity and resource consumption of digital devices that seek to justify growth through self-referential legitimisation, regardless of necessity or ability to even function properly". They criticize corporate greed and the idea that "new is always better". Permacomputing, a combination of the words Permaculture and computing, seeks to be a practical framework that encourages limits and constraints in computer culture and creativity. In my own practices I've fallen into the trap of 'mesmerizing aesthetics', creating beautiful (but shallow) 3D CGI artwork that goes into a similar direction of ignorant (towards Climate Crisis, overconsumption) maximisation. In the name of Permacomputing I am trying to reframe my practices into purposeful aesthetics with self-imposed constraints.
+
+"Computationally minimal art (CMA) can be described as an algorithmic art that idealizes low computational complexity as a source of beauty." The simplicity of CMA in it's own process-making can be defined as an aesthetics 
+
+
 
 ---
 
-Type: paper
+**Type:** paper
 
-Author(s): Aymeric Mansoux, Brendan Howell, Dušan Barok, Ville-Matias Heikkilä
+**Author(s):** Aymeric Mansoux, Brendan Howell, Dušan Barok, Ville-Matias Heikkilä
 
-Year: 2023
+**Year:** 2023
 
-Source: [Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture · Ninth Computing within Limits 2023](https://limits.pubpub.org/pub/6loh1eqi/release/1
+**Source:** [Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture · Ninth Computing within Limits 2023](https://limits.pubpub.org/pub/6loh1eqi/release/1
+
+**Links**: [[Permacomputing]]

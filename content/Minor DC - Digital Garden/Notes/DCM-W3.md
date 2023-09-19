@@ -19,4 +19,4 @@ Noble, Safiya Umoja. “Algorithms of oppression.” _Algorithms of Oppression_
 # Theory
 
 - [x] Read, using the critical reading approach, take notes: Noble, Safiya Umoja. “[[Algorithms of oppression]].” Algorithms of Oppression. New York University Press, 2018., introduction (PDF) See Teams > research Deanna > files ✅ 2023-09-14
-- [ ] Bring projects you find relevant to your view on technology.
+- [ ]  Bring projects you find relevant to your view on technology.
