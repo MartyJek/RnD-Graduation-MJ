@@ -1,6 +1,6 @@
->Small systems are more likely to have small hardware and energy requirements, as well as high understandability. They are easier to understand, manage, refactor and repurpose.
+> Small systems are more likely to have small hardware and energy requirements, as well as high understandability. They are easier to understand, manage, refactor and repurpose.
 >
->[permacomputing.net](https://permacomputing.net/Principles/)
+> [permacomputing.net](https://permacomputing.net/Principles/)
 
 - Low dependencies
 - Avoid pseudosimplicity such as user interfaces that hide their operation from the user.
