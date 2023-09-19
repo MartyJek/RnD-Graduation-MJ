@@ -1,11 +1,10 @@
 
----
 Type: Essay
 Author: Eric Hunting
 Year: 2020
 Status: 50%
 KeyIdeas: 
-tags: #I/Solarpunk #school/paper 
+tags: school/paper 
 
 ___
 # Notes
