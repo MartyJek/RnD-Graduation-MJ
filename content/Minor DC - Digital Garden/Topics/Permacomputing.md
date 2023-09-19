@@ -117,7 +117,7 @@ Immersion is yin: instead of breaking away from the typical and unrefined, it ta
 
 # In Practice
 
-**\*From [[Permacomputing Aesthetics]]**:\*
+**From [[Permacomputing Aesthetics]]**:
 
 > In practice, permacomputing exists as two intertwined strands: first, an incentive to reuse and repurpose existing computer technology and materials to create new works; and second, a list of continuously evolving design principles, to guide that very reuse and repurposing, but also to inform the development of new software and hardware when reuse and repurposing are not possible or relevant.
 
