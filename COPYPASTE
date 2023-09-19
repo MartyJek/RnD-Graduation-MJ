@@ -1,0 +1,8 @@
+preview
+npx quartz build --serve 
+
+site push
+npx quartz sync
+
+site
+https://martyjek.github.io/DC-Research-MJ/  

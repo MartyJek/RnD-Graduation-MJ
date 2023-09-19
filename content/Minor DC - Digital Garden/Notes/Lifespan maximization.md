@@ -1,0 +1,3 @@
+>**Lifespan maximization** is the extension of [hardware](https://permacomputing.net/hardware/) lifespan by the users. It may be supported by [planned longevity](https://permacomputing.net/planned_longevity/) from the manufacturer's side, but it rarely is. 
+>
+>[Fabrication of microchips](https://permacomputing.net/IC/) requires large amounts of energy, highly refined machinery and poisonous substances. Because of this sacrifice, the resulting microchips should be treasured like gems or rare exotic spices. Their active lifespans should be maximized, and they should never be reduced to their raw materials until they are thoroughly unusable.
