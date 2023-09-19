@@ -9,10 +9,7 @@ tags:
   - school/paper
 ---
 
-
-
-
-___
+---
 
 > Permacomputing could therefore be an effective cultural counter-voice to a digital aesthetic that encourages maximisation, e.g. high bandwidth, high resolution, more computing power at any cost, for anything, sensing and capturing more, while making less and less sense, ultimately rendering us insensitive to the harm and damage we legitimise
 
