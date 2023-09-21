@@ -1,5 +1,6 @@
 
-[[Digital Craft Minor 23 ⭐]]
+**Links**: [[Digital Craft Minor 23 ⭐]]
+
 
 # INFO
 

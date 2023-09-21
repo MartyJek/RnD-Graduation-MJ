@@ -1,3 +1,6 @@
+**Links**: [[Digital Craft Minor 23 ⭐]]
+___
+
 # INFO
 
 **Week 2 (36):** Sep 7: Context & Common Ground (Critical Reading 01)  

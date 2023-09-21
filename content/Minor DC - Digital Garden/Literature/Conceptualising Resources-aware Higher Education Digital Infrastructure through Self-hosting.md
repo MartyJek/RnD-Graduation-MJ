@@ -3,7 +3,7 @@ Type: paper
 Author: Angeli, Lorenzo ; Okur, Ö.; Corradini, Carlo; Stolin, Marcel ; Huang, Yilin; Brazier, F.M.; Marchese, Maurizio
 Year: 2022
 Status:
-Subject: Permacomputing, self-hosting
+Keywords: Permacomputing, self-hosting
 tags:
   - school/paper
 ---

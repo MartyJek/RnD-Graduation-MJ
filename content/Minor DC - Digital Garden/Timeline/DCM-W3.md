@@ -1,5 +1,8 @@
-
 [[Digital Craft Minor 23 ⭐]]
+___
+
+![[Pasted image 20230920123652.png]]
+*Theory*
 
 # INFO
 
