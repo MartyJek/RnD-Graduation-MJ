@@ -8,7 +8,7 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 
 - [x] [[DCM-W2]]
 - [x] [[DCM-W3]]
-- [ ] [[DCM-W4]]
+- [x] [[DCM-W4]]
 
 # Topics
 
@@ -17,7 +17,8 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 
 # Literature
 
-| <div style="width:100px">Title</div> | <div style="width:100px">Author(s)</div>|<div style="width:40px">Year</div> | KeyWords
+| <div style="width:100px">Title</div> | <div style="width:100px">Author(s)</div> | <div style="width:40px">Type</div> | KeyWords |
 | --- | --- | --- | --- |
-| Art, Energy and Technology: the Solarpunk Movement | Juan David Reina-Ronzo | 2021 | Solarpunk; Science-Fiction; Afro-Futurism; Renewable energy; Energy decolonization| 
-| [[Permacomputing Aesthetics]] | A Mansoux<br>B Howell<br>D Barok<br> V Heikkilä | 2023 | #permacomputing, #aesthetics, computational culture, art, design, cultural production, constraints, environmentalism, electronic waste, re-use |
+| All Watched Over by Machines of Loving Graze (1967) | Richard Brautigan | poem | cybernetics; mutualism; idealism; utopia |
+| Art, Energy and Technology: the Solarpunk Movement (2021) | Juan David Reina-Ronzo | paper | solarpunk; science-Fiction; afro-futurism; renewable energy; energy decolonization |
+| [[Permacomputing Aesthetics]] (2023) | A Mansoux<br>B Howell<br>D Barok<br> V Heikkilä | paper | #permacomputing, #aesthetics, computational culture, art, design, cultural production, constraints, environmentalism, electronic waste, re-use | 
