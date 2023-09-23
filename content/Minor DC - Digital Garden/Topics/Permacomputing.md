@@ -144,4 +144,13 @@ For instance, a graphic designer can be commissioned to program an interactive w
 
 Permacomputing could promote a transition from a system where creative practitioners use the latest digital tools and media, regardless of environmental consequences, to a more strategic system in which digital tools and media of all generations, are carefully combined, crafted and used to form a less extractive practice.
 
----
+# Related Concepts
+
+## [Frugal Computing](https://limited.systems/articles/frugal-computing/)
+
+## [Smolnet](https://communitywiki.org/static/SmolNet.html)
+
+## [[Gemini Project]]
+
+## [Compudanzas](https://compudanzas.net/permacomputing.html)
+

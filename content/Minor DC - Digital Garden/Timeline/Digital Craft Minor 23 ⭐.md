@@ -1,15 +1,37 @@
 
-## Next Step
+>[!TIP] Next Step
+>- [ ] Organise all tabs, bookmarks into Obs
+>- [ ] For [[PMC-W2]] read: 
+>	- [x] [[Should Data Expire]]
+
+>[!Question] Next Reads
+>
+> [[Solar Protocol]]
+>	- http://solarprotocol.net/sunthinking/pasek.html
+>	- http://solarprotocol.net/sunthinking/zhang.html
+>	- http://solarprotocol.net/sunthinking/motaghy.html
+>	- http://solarprotocol.net/sunthinking/lenz.html
+>	- http://solarprotocol.net/sunthinking/wamburu.html
+>
+>[[Permacomputing]]
+>	- https://monoskop.org/images/5/55/Valk_Marloes_de_Heikkila_Ville-Matias_2022_Permacomputing.pdf
+>	- https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/
+>	- https://medium.com/data-ai-masters/redefining-our-needs-permacomputing-and-vernacular-computing-ba703bb0f1d9
+>	- https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/
+>
+>[[100rabbits]]
+>	- https://www.youtube.com/results?search_query=uxn+100+rabbits
+>	- https://100r.co/site/weathering_software_winter.html
+>	- 
 
 ## Timeline
 
 - [x] [[DCM-W2]] ✅ 2023-09-10
 - [x] [[DCM-W3]] ✅ 2023-09-16
-- [ ] [[DCM-W4]]
+- [x] [[DCM-W4]]
+- [ ] [[DCM-W5]]
 
 # Research
-
-## [[Literature]]
 
 - contextualisation of your project, positioning
   critically exploring technologies and their contexts,
@@ -179,6 +201,7 @@ which questions do you have regarding the text?
 
 ## Reference
 
+
 PDF Doing Research
 https://static.mywdka.nl/researchstation/2022/05/31/doing-researchconversation-
 circle-and-report/
@@ -196,3 +219,21 @@ https://static.mywdka.nl/researchstation/2021/03/17/publication-research-forpeop
 
 Databases
 https://static.mywdka.nl/researchstation/databases/
+
+Additional Papers:
+https://networkcultures.org/
+
+
+# Practice
+
+## Inspiration
+
+https://ars.electronica.art/who-owns-the-truth/en/theme-exhibition/
+
+
+# PMC-Workshop
+
+- [x] [[PMC-W1]]
+- [ ] [[PMC-W2]]
+- [ ] 
+

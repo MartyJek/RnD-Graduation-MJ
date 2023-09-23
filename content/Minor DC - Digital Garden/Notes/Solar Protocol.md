@@ -39,3 +39,4 @@ Energy-centered design is also about accountability. In building this website, w
 >Could we design a computer network that was not only powered by the sun, but also programmed by it. Could we subvert modernist dreams of designing machines to control our environments and instead let our environments control our machines? Could we design in a way that lets the intelligence of the world steer or even automate decision making in our technological systems rather than the other way around?
 
 
+[[Should Data Expire]]
