@@ -1,5 +1,7 @@
 **Source**: [permacomputing.net](http://permacomputing.net)
 
+**Links**: [[Thoughts on Permacomputing]]
+
 **Paper**: [[Permacomputing Aesthetics]]
 
 ---
@@ -32,7 +34,7 @@ From [[Permaculture]] + Computing
 
 ---
 
-#### [[Keep it small]]
+ [[Keep it small]]
 
 ---
 

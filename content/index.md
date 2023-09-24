@@ -9,11 +9,13 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 - [x] [[DCM-W2]]
 - [x] [[DCM-W3]]
 - [x] [[DCM-W4]]
+- [ ] [[DCM-W5]]
 
 # Topics
 
 - [[Solarpunk]]
   - [[Permacomputing]]
+    - [[Thoughts on Permacomputing]]
 
 # Literature
 

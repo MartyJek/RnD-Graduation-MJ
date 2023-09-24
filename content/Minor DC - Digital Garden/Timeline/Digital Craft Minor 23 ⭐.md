@@ -1,8 +1,10 @@
 
 >[!TIP] Next Step
->- [ ] Organise all tabs, bookmarks into Obs
 >- [ ] For [[PMC-W2]] read: 
 >	- [x] [[Should Data Expire]]
+>	- [ ] 
+
+
 
 >[!Question] Next Reads
 >
