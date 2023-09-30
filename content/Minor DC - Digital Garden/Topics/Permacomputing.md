@@ -1,6 +1,6 @@
 **Source**: [permacomputing.net](http://permacomputing.net)
 
-**Links**: [[Thoughts on Permacomputing]]
+**Links**: [[On Permacomputing]]
 
 **Paper**: [[Permacomputing Aesthetics]]
 
@@ -18,7 +18,7 @@ From [[Permaculture]] + Computing
 
 - Care for the earth, care for the people
 - Low-power systems
-- [[Off-the-grid]]
+- [[off-the-grid]]
 - Minimise artificial energy, fossil fuel and mineral resource-use
 
 ---
@@ -67,7 +67,7 @@ From [[Permaculture]] + Computing
 Computers were invented to assist people in their cognitive processes. "Intelligence amplification" was a good goal, but intelligence may also be used narrowly and blindly. It may therefore be a better idea to amplify awareness.
 
 - Awareness means awareness of whatever is concretely going on in the world/environment but also awareness of how things work and how they situate in their contexts (cultural, historical, biological etc).
-- You don't need to twiddle with everything in order to understand it. [[Yin hacking]] emphasizes observation.
+- You don't need to twiddle with everything in order to understand it. [[Yin and Yang hacking]] emphasizes observation.
 - It may also often be a good idea to amplify the computer's awareness of its physical surroundings with things like sensors.
 
 #### Expose everything
@@ -97,7 +97,11 @@ While operating locally and at present, be aware of the entire world-wide contex
 - You may also read this principle as: **There is a place of everything**. Nothing is obsolete or irrelevant. Even if they lose their original meaning, programmable systems may be readapted to new purposes they were not originally designed for. Think about technology as a rhizome rather than a "highway of progress and constant obsolescence".
 - There is a place for both slow and fast, both gradual and one-shot processes. Don't look at all things through the same glasses.
 
-# Aesthetics
+
+# Theory
+
+## [[Permacomputing Aesthetics|Aesthetics]]
+
 
 _Small is beautiful_: anti-[[maximalism]]
 
@@ -109,7 +113,7 @@ _Small is beautiful_: anti-[[maximalism]]
 
 > [!info] In video games, not the fidelity is important but the enjoyment of the game itself.
 
-## Transgression and immersion
+### Transgression and immersion
 
 **Transgression** and **immersion** are two oppositional ways to creatively relate to constraints, especially in the kind of digital art forms that appreciate constraints (chip music, [[Demoscene]], [pixel art](http://permacomputing.net/pixel_art/)).
 
@@ -117,18 +121,35 @@ Transgression is yang: it attempts to "break" or "push" the boundaries; to get a
 
 Immersion is yin: instead of breaking away from the typical and unrefined, it takes it as the basis to build on. The 1:1 square wave is now very much wanted. The individual characteristics of a system are appreciated and explored ever deeper.
 
-# In Practice
+
+## [[Viznut|Viznut on Permacomputing]]
+
+# Practice
 
 **From [[Permacomputing Aesthetics]]**:
 
 > In practice, permacomputing exists as two intertwined strands: first, an incentive to reuse and repurpose existing computer technology and materials to create new works; and second, a list of continuously evolving design principles, to guide that very reuse and repurposing, but also to inform the development of new software and hardware when reuse and repurposing are not possible or relevant.
 
+0
+## ![[On Permacomputing#'Hard vs. 'Soft' Permacomputing]]
+
 ## Examples
+
+### Hard PMC
 
 - [[Bytebeat]]
 - [[Bit art]]
 - [[UxN]]
 -
+
+### Soft PMC
+
+
+## Visual Art
+
+### PMC Displays
+
+[Transflective liquid-crystal display - Wikipedia](https://en.wikipedia.org/wiki/Transflective_liquid-crystal_display)
 
 # Permacomputing in the Arts - Workshop 16/03/23
 
@@ -140,11 +161,11 @@ It is part of a larger research and effort to develop new curricula to support a
 
 #### Issue
 
-For the past decades, art academies have expanded their curricula from traditional fine art practices, such as painting and sculpture, to work with computer technology. It can take the form of an installation, a performance, a graphic design, a data visualisation, and will often use computer technology for the making, publishing, and circulation of the work. However, artists and designers are not educated to assess to which degree their practice could be environmentally problematic and extractive. This is an issue by itself and gets worse once entering both speculative and applied practices that have the ambition to engage with environmental issues.
+For the past decades, art academies have expanded their curricula from traditional fine art practices, such as painting and sculpture, to work with computer technology. It can take the form of an installation, a performance, a graphic design, a data visualisation, and will often use computer technology for the making, publishing, and circulation of the work. However, ==artists and designers are not educated to assess to which degree their practice could be environmentally problematic and extractive.== This is an issue by itself and gets worse once entering both speculative and applied practices that have the ambition to engage with environmental issues.
 
 For instance, a graphic designer can be commissioned to program an interactive website to explain the energy impact of digital media. If the website is programmed in a way that requires resource-intensive computing in data centres and drains the batteries of the visitor's phone or laptop, then instead of being an exemplary and generative contribution, it risks to remain symbolic, or in a performative contradiction to its stated goal. At worst, it may even be an alibi for environmentally harmful practices and technologies. This is a problem because it seriously weakens and undermines the interdependent relation between the cultural sector, art and design education, and policymaking. It is also a missed opportunity to showcase forward-looking practices that could be both creative and more sustainable.
 
-Permacomputing could promote a transition from a system where creative practitioners use the latest digital tools and media, regardless of environmental consequences, to a more strategic system in which digital tools and media of all generations, are carefully combined, crafted and used to form a less extractive practice.
+==Permacomputing could promote a transition from a system where creative practitioners use the latest digital tools and media, regardless of environmental consequences, to a more strategic system in which digital tools and media of all generations, are carefully combined, crafted and used to form a less extractive practice.==
 
 # Related Concepts
 
@@ -156,3 +177,6 @@ Permacomputing could promote a transition from a system where creative practitio
 
 ## [Compudanzas](https://compudanzas.net/permacomputing.html)
 
+# Further Reads
+
+[Unconventional computing - Wikipedia](https://en.wikipedia.org/wiki/Unconventional_computing)

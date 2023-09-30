@@ -27,13 +27,16 @@ integrated water resource management
 ---
 
 **People**: [[Bill Mollison]] [[Davild Holmgren]]
+
 **Tags**: #sustainability #permacomputing
+
 **Related**:
 [[Permacomputing]]
 [[Permaculture x Permacomputing]]
 [[Systems Thinking]]
+
 **Further Readings:**
 [Permaculture for Sceptics - The Permaculture Research Institute](https://www.permaculturenews.org/2021/03/11/permaculture-for-sceptics/)
 [academia-danubiana.net/wp-content/uploads/2012/05/2.12.09.01_HARPER-A-critique-of-permaculture.pdf](http://academia-danubiana.net/wp-content/uploads/2012/05/2.12.09.01_HARPER-A-critique-of-permaculture.pdf)
 
-[^1]: Mollison, B. C. (1991). [_Introduction to permaculture_](https://www.worldcat.org/oclc/24484204). Slay, Reny Mia., Jeeves, Andrew.
+[wiki.c2.com/?PermaCulture](https://wiki.c2.com/?PermaCulture)

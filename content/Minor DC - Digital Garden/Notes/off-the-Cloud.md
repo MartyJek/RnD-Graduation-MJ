@@ -1,11 +1,6 @@
----
-draft: wrong
----
+___
+# Soft PMC
 
-**Links**: [[Off-the-grid]]
-
----
-
----
+A less radical approach then getting [[off-the-grid]] would be to get off cloud services.
 
 **Source**:

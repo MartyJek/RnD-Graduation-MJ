@@ -4,4 +4,4 @@
 
 # Reflection
 
-While off-the-grid is a rather radical approach towards 
+While off-the-grid is a rather radical approach towards sustainable energy consumerism

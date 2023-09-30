@@ -1,8 +1,14 @@
-
+	
 >[!TIP] Next Step
 >- [ ] For [[PMC-W2]] read: 
 >	- [x] [[Should Data Expire]]
->	- [ ] 
+>	- [x] Techno-Aesthetics
+>	- [ ] Do Artifacts Have Politics? from Langdon Winner
+>	- [ ] Origin Stories: Plantations, Computers, and Industrial Control from Meredith Whittaker
+>	- [ ] [Permacomputing Update 2021 | viznut](http://viznut.fi/texts-en/permacomputing_update_2021.html)
+>- [ ] For Practice
+>	- [ ] Discover [PMC Displays](https://en.wikipedia.org/wiki/Transflective_liquid-crystal_display)
+
 
 
 

@@ -1,7 +1,10 @@
 
 **Links**: [[Digital Craft Minor 23 ⭐]]
+___
 
+# Progress
 
+## ![[On Permacomputing]]
 # INFO
 
 **Week 4 (38) 21 Sept:**  Context & Common Ground (Critical Reading 03)

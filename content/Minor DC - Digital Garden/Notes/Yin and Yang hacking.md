@@ -1,4 +1,3 @@
-## Yin and Yang hacking
 
 These concepts were introduced in the [Permacomputing 2020](http://permacomputing.net/Permacomputing_2020/)text.
 

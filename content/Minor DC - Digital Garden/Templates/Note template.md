@@ -1,11 +1,17 @@
 ---
-draft: true
+draft: false
+date:
+tags:
+  - permacomputing
+  - selfhosting
+  - memories
+  - archive
 ---
 
-**Links**:
-
 ___
 
 ___
 
-**Source**:
+
+**Links**:<br>
+**Source**: <br>

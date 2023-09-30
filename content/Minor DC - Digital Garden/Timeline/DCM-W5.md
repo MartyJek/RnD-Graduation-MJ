@@ -1,3 +1,11 @@
+
+# Progress
+
+![[Pasted image 20230926124616.png]]
+*Mapping of Permacomputing Practices*
+
+
+
 # Info
 
 **Week 5 (39): 28  Sep Context & Common Ground – (Critical Reading 04)  
