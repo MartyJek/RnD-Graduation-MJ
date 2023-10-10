@@ -1,19 +1,16 @@
 ---
 draft: true
-date:
+date: 
 tags:
   - permacomputing
   - selfhosting
   - memories
   - archive
 ---
----
+___
 
-**Links**:
 
----
 
----
 
 **Type:**
 

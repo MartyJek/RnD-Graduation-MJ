@@ -1,16 +1,12 @@
-	
+
+# Practice
+
 >[!TIP] Next Step
->- [ ] For [[PMC-W2]] read: 
->	- [x] [[Should Data Expire]]
->	- [x] Techno-Aesthetics
->	- [ ] Do Artifacts Have Politics? from Langdon Winner
->	- [ ] Origin Stories: Plantations, Computers, and Industrial Control from Meredith Whittaker
->	- [ ] [Permacomputing Update 2021 | viznut](http://viznut.fi/texts-en/permacomputing_update_2021.html)
->- [ ] For Practice
->	- [ ] Discover [PMC Displays](https://en.wikipedia.org/wiki/Transflective_liquid-crystal_display)
+>- [ ] Get Inspired
+>- [ ] Discover [PMC Displays](https://en.wikipedia.org/wiki/Transflective_liquid-crystal_display)
+>- [ ] Ask around for broken Laptops/Phones
 
-
-
+# Theory
 
 >[!Question] Next Reads
 >
@@ -37,7 +33,9 @@
 - [x] [[DCM-W2]] ✅ 2023-09-10
 - [x] [[DCM-W3]] ✅ 2023-09-16
 - [x] [[DCM-W4]]
-- [ ] [[DCM-W5]]
+- [x] [[DCM-W5]]
+- [x] [[DCM-W6]]
+- [ ] [[DCM-W7]] 
 
 # Research
 
@@ -243,5 +241,4 @@ https://ars.electronica.art/who-owns-the-truth/en/theme-exhibition/
 
 - [x] [[PMC-W1]]
 - [ ] [[PMC-W2]]
-- [ ] 
 

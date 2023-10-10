@@ -1,5 +1,5 @@
 
-**Links**: [[Digital Craft Minor 23 ⭐]]
+**Links**: [[Minor - Digital Craft 23⭐]]
 ___
 
 # Progress

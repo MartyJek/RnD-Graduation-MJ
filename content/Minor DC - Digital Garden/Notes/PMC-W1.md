@@ -2,7 +2,7 @@
 draft: true
 ---
 
-**Links**: [[Digital Craft Minor 23 ⭐#PMC-Workshop]]
+**Links**: [[Minor - Digital Craft 23⭐#PMC-Workshop]]
 
 ---
 # Mail A.

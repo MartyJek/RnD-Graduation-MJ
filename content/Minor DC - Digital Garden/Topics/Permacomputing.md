@@ -130,7 +130,7 @@ Immersion is yin: instead of breaking away from the typical and unrefined, it ta
 
 > In practice, permacomputing exists as two intertwined strands: first, an incentive to reuse and repurpose existing computer technology and materials to create new works; and second, a list of continuously evolving design principles, to guide that very reuse and repurposing, but also to inform the development of new software and hardware when reuse and repurposing are not possible or relevant.
 
-0
+>Permacomputing is a practical critique on today's ICT culture. 
 ## ![[On Permacomputing#'Hard vs. 'Soft' Permacomputing]]
 
 ## Examples

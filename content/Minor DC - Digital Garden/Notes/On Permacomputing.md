@@ -11,7 +11,7 @@ tags:
 
 ___
 
-# Transitioning into [[postdigital]] [[techno-aesthetics]]
+# Transitioning into [[postdigital]] [[On Techno-Aesthetics]]
 
 Coming from a computational extractive background that features playing around with the newest technological tools (e.g. photorealism, physics simulation in CG; anything-AI) the transitioning from the world of [[The trap of mesmerizing aesthetics|mesmerizing aesthetics]] into <u>mindful aesthetics</u> proves difficult. 
 
@@ -36,6 +36,6 @@ ___
 
 
 **Links**:<br>
-[[techno-aesthetics]] <br>
+[[On Techno-Aesthetics]] <br>
 
 

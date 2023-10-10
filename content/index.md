@@ -11,17 +11,18 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 - [x] [[DCM-W3]]
 - [x] [[DCM-W4]]
 - [x] [[DCM-W5]]
+- [x] [[DCM-W6]]
+- [ ] [[DCM-W7]]
 
 # Practice
 
-## Thoughts
+## Thoughts 💭
 ### On Permacomputing
   - [[On Permacomputing#Transitioning into postdigital techno-aesthetics]]
     - [[On Permacomputing#'Hard vs. 'Soft' Permacomputing]]
       
-
 ### On Self-Hosting
-  - [[The Cloud - a haiku]]
+  - [[memory graveyard - a haiku]]
 
 # Theory
 
