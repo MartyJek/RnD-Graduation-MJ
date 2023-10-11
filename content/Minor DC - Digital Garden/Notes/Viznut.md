@@ -125,7 +125,7 @@ One way to deal with huge platforms is to create "pockets of simplicity" such as
 
 ## [Maximalism and Virtualism](http://viznut.fi/texts-en/maximalism_virtualism.html)
 
-Max
+**Max**
 
 >In computational esthetics, **Maximalism** manifests itself especially as the estheticisation of size and abundance. For example, images contain more and more pixels, colors and details, which require more and more capacity for storage and computation. Even when a technological invention allows us to do more with less - for example, by better video compression codecs - this invention is used, in line with [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox), to accelerate quantitative growth - doing more with more.
 
@@ -135,7 +135,7 @@ Max
 
 >Maximalism and planned obsolescence feed each other. When technologies from different 'generations' can be reduced to one-dimensional numbers, where bigger is always unequivocally better in every way, there is no justification for the existence of the old and it is easy to throw it into the waste heap. 4K is replaced by 8K, 4G is replaced by 5G. Despite the fact that there is already an unimaginable abundance of resources, this abundance shows up as temporary and inadequate.
 
-Virt
+**Virt**
 
 'Virtualism' means here a way of thinking in which hiding and disguising the complexity of a system, or its inner workings in general, is self-serving and extreme. Details that the user 'doesn't need to see' are considered dirty and ugly, something that need to be hidden from them even when they might actually be relevant. For example, the user of a smartphone application may not even be given the opportunity to know which of the files they are using are stored on the device itself and which are on an external server. Virtualism also extends to the physical appearance of the phone - its monolithic design and lack of moving parts keep its internal workings as hidden as possible from the user.
 
@@ -146,3 +146,31 @@ Virt
 Virtualism also appears in IT metaphors. For example, the word 'cloud' refers to large, energy-hungry computer rooms that rent storage and computing capacity to customers, commoditized so that they don't have to worry about physical servers. The word "cloud" summons images that are as far away as possible from concrete computer hardware consisting of separable parts. It is something homogeneous, gaseous and ever-changing, something that is pointless to even try to compartmentalize in one's mind, but which, on the other hand, brings peace of mind as it floats against a blue background.
 
 >Above all, Virtualism causes alienation. People become alienated not only from the technology they are using and its tangible material framework, but also from reality in general and even from themselves.
+
+
+
+## Digital Aesthetics, environmental change and the subcultures of computer art
+
+### Abstract 
+
+For decades, the development of information technology has been characterized by a very strong ==growth orientation, which is now coming to an end with the fading of Moore's Law and environmental change.== Academic research in computing has only recently begun to wake up to the fact that there are limits to growth, and that a more fundamental paradigm shift is required to achieve sustainable computing; mere technical tinkering is not enough. Growth-centricity has also dictated the development of digital esthetics, which will thus need to change as well. I suggest that the guidelines for this change should be sought in subcultures of computer art whose esthetic ideals are very different from the mainstream Maximalism and Virtualism – the self-serving glorification of the big and plentiful and the hiding of the technical basis of things. I have chosen demo art, chip music, pixel graphics and glitch art as examples of these subcultures. The ideals of "digitality" are also being challenged by post-digitality, so I will also look at these subcultures through this concept. I will conclude with reflections on the possible impacts of environmental change on digital esthetics and computing more generally, and on the ways in which computer art subcultures could play a pioneering role in these developments.
+
+- growth orientation -> degrowth orientation
+
+### 1.
+
+>digital esthetics, it manifests itself in particular as **Maximalism**, which glorifies a maximally data-intensive representation of reality – for example, the highest possible resolution of video content and the photorealism ideal of game graphics.
+
+### 2. 
+
+>Whenever a technical invention enables more to be done with less, it is used to accelerate the quantitative growth more to do more with more. This phenomenon is called the Jevons paradox
+
+#### 2.1 Maximalism
+>In everyday computing, the Maximalist esthetic is often associated with the pursuit of the most accurate, sharp and realistic image possible, for example in games or video content. This is a relatively unimaginative goal - everyone knows what reality looks like – and at the same time impossible: the sharpeyed will learn to distinguish even the most faithful imitations from the real thing.
+
+#### 2.2 Virtualism
+
+>Even the physical nature of the phone is Virtualist – its monolithic nature and lack of moving parts keep its internal structure as hidden from the user as possible.
+
+Revealing hidden layers of virtualism through Glitch art:
+>Rosa Menkman (2011, 13-14), the ideal of perfect, mirror-like, noise-free data transmission is a kind of holy grail that can be approached indefinitely but never reached. Glitch art, practiced by Menkman, critiques this ideal by highlighting the glitches and errors, thus also revealing hidden layers of abstraction.
