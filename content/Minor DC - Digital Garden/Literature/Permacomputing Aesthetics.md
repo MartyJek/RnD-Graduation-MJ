@@ -81,6 +81,15 @@ In this paper, we argue for the potential of ==permacomputing as a rich framewor
 
 >In societies vastly dominated by technological novelty, economic growth, and technosolutionism, [[the relationship with time is difficult to dissociate from consumerism.]]
 
+>At the same time, there is an important aspect of retro-computing activities that can also challenge this argument: technical accessibility. It should not be underestimated that for many hackers, artists, designers and modders, the appeal of retro-computing lies in the relatively low-threshold capacity to augment, adapt or tinker with old equipment. From discrete components, socketed chips, annotated PCB layouts, and thick service manuals and schematics, retro-computing turns the maximalist notion of computational potential on its head. Even if everything is relative, and that black boxes of the past are just as closed as those of today, old machines are simply easier to take apart and understand. So if permacomputing could be aligned with retro-computing, it would be through some of the retro-computing subcultures that use so-called obsolete technology in radically different contexts because of its plasticity
+
+>In addition to technical considerations, permacomputing also resonates with the creative and environmental considerations of zombie media —a counterpoint to the notion of dead media—which acknowledges that “[m]edia kills nature as they remain as living deads”, and encourages the reappropriation of electronic waste, drawing an analogy with the processes of reuse found in remix culture.
+> ==SEE ALSO==: [[In Defense of the Poor Image]]
+
+>Ultimately, permacomputing aesthetics could be understood as a politically driven kind of post-digital aesthetics [lab404.com/142/cramer.pdf](https://lab404.com/142/cramer.pdf)
+
+
+
 
 # Reflection
 
