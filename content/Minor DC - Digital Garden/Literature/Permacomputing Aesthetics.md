@@ -18,8 +18,16 @@ tags:
 [[Permacomputing]] is a nascent concept and a community of practice centred around ==design principles that embrace limits and constraints as a positive thing in computational culture, and on creativity with scarce computational resources.==As a result, permacomputing aims to provide a countervoice to digital practices that promote maximisation, hyper-consumption and waste. It seeks to ==encourage practices as an applied critique of contemporary computer tech-nology that privileges maximalist aesthetics== where more pixels, more frame rate, more computation and more power equals more potential at any cost and without any consequences. We believe that such a critical practice can be relevant to artists, designers and cultural practitioners working with computer and network tech-nology who are interested in engaging with environmental issues. This is particularly relevant given the tendency in art, design and cultural production to rely on tools and techniques designed to maximise productivity and mass consumption.
 In this paper, we argue for the potential of ==permacomputing as a rich framework for exploring creative design constraints== building on a long history of applying constraints in art, design and cultural practices. Because of the need to reconfigure the modes of production and organisation within computational practices, this calls for a ==different understanding of aesthetics, one that goes beyond the formal evaluation of how things look, but addresses how aesthetics can also be systems of relations, sensing and making sense that are already present in the process of making.== We will also discuss the challenges faced by permacomputing practitioners, such as the complicated link with retro-computing, post-digital culture and nostalgia, as well as the problem of constraints in relation to the aesthetisation of poverty, and more generally what it means to work with self-imposed limits in a more privileged socioeconomic context.
 
+# 2 Deceptive Maximalist Techno-Aesthetics
 
-# 3 ART, DESIGN AND CULTURAL WORK UNDER CONSTRAINTS
+>Gilbert Simondon describes a techno-aesthetic work as “perfectly functional, successful, and beautiful,” where contemplation and joy arise from the fusion of aesthetics and technique. Simondon also points out that aesthetics cannot be reduced to the sensations felt by the consumer of a work. It also encompasses the sensations of the person who crafts, makes and creates the artifact, as well as the relationships with the instruments used in the process.
+
+>But while we are stuck in this modern adaptation of Zeno’s paradoxes, we continue to record, collect and archive a mesmerising amount of digital data in which we forget ourselves,[2] and why we are doing such things in the first place.
+
+>So when we talk about permacomputing aesthetics, it is not just about technical implementation, or about countering a broken maximalism with an exact opposite, such as an equally broken minimalism. It is about reimagining, dreaming, and experimenting with alternative ways of engaging with computer and network technology.[9] Artists, designers and cultural workers are often praised for their capacity to communicate, illustrate and raise awareness around social issues. It is up to us to begin to critically examine the ways we are dependent on the ICT industry, to rethink the ways in which they produce things, and to begin to address this on a practical and concrete level in our fields
+
+
+# 3 Art, Design and Cultural Work under Constraints
 
 ## Constraints: *Less is more*
 
@@ -56,7 +64,24 @@ In this paper, we argue for the potential of ==permacomputing as a rich framewor
 >what would it mean to address the urgency to the point of completely reconfiguring a practice? Is it dilettantism? Virtue signalling? Artivism? Or just a symbolic gesture?
 
 
-	 
+
+
+# 4 Permacomputing Aesthetics
+
+>What distinguishes permacomputing from other approaches is the way in which it makes constraints visible and usable through its connection to material circumscription.
+
+>Unlike Simondon’s techno-aesthetics, which may eventually iteratively find a pleasing equilibrium between functional technique and aesthetics, permacomputing’s techno-aesthetics are much more perilous because **a third component is forced in: an informed and contextualised intention to address the social, cultural, environmental and economic externalities of maximalist computer and network technologies.**
+
+>==permacomputing aesthetics should not be misunderstood as belonging to an aesthetics of obstruction, for it is less concerned with the performative and symbolic dimension of its approach,[10] and is **instead rooted in questioning the nature of its underlying process and the generative insecurity of its awkwardness.**== [Femke Snelting: Awkward Gestures](https://freeze.sh/_/2008/awkward/#)
+
+>In practice, permacomputing exists as two intertwined strands: first, an incentive to reuse and repurpose existing computer technology and materials to create new works; and second, a list of continuously evolving design principles, to guide that very reuse and repurposing, but also to inform the development of new software and hardware when reuse and repurposing are not possible or relevant.
+
+
+# 5 Permacomputing and Nostalgia
+
+>In societies vastly dominated by technological novelty, economic growth, and technosolutionism, [[the relationship with time is difficult to dissociate from consumerism.]]
+
+
 # Reflection
 
 In a near vengeful tone the authors of this piece strip apart the term of maximalist [[On Techno-Aesthetics| techno-aesthetics]]: "Aesthetics, that are the manifestation of technologies driven by the myth of perpetual growth and infinite resources, aesthetics based on the everincreasing complexity and resource consumption of digital devices that seek to justify growth through self-referential legitimisation, regardless of necessity or ability to even function properly". They criticize corporate greed and the maximalist idea that growth is a form of progress. Permacomputing, a combination of the words Permaculture and computing, seeks to be a practical framework that encourages limits and constraints in computer culture and creativity. In my own practices I've fallen into the trap of '[[The trap of mesmerizing aesthetics|mesmerizing aesthetics]]', creating beautiful (but shallow) 3D CGI artwork that goes into a similar direction of ignorant (towards climate crisis, overconsumption) maximisation. In the name of Permacomputing I am trying to reframe my practices into purposeful aesthetics with self-imposed constraints.
