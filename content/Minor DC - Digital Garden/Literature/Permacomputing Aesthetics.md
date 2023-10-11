@@ -21,7 +21,7 @@ In this paper, we argue for the potential of ==permacomputing as a rich framewor
 
 # 3 ART, DESIGN AND CULTURAL WORK UNDER CONSTRAINTS
 
-## Self-imposed constraints: *Less is more*
+## Constraints: *Less is more*
 
 ### Examples:
 
