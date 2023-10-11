@@ -22,14 +22,12 @@
 		{"id":"7db574eee06e3cb9","type":"file","file":"assets/images/Pasted image 20230923162123.png","x":-2013,"y":-13460,"width":1086,"height":240},
 		{"id":"ef58f45c6526b107","type":"text","text":"","x":-4652,"y":-13662,"width":250,"height":60},
 		{"id":"f24447603bf10760","type":"file","file":"assets/images/IMG_0054.jpg","x":-3780,"y":-9396,"width":2239,"height":928},
-		{"id":"5fc775fb8a7cc943","type":"text","text":"# Video Games\n","x":-8654,"y":-12238,"width":250,"height":120},
 		{"id":"1485d6fe7a2bf406","type":"text","text":"## Projects that encompass whole PMC systems","x":-10159,"y":-12429,"width":499,"height":117,"color":"1"},
 		{"id":"4a4881c0a631b5e4","type":"text","text":"## Projects that touch on the principles of PMC","x":-10159,"y":-12646,"width":389,"height":158,"color":"4"},
 		{"id":"8b028d1d6c387186","type":"text","text":"# 'Soft' Permacomputing Projects","x":-10766,"y":-12635,"width":367,"height":136,"color":"4"},
 		{"id":"fe45b6399764f4f0","type":"text","text":"# 'Hard' Permacomputing Projects","x":-10766,"y":-12439,"width":367,"height":136,"color":"1"},
 		{"id":"62886cc6e7a02ae0","type":"text","text":"### [RHYTHM OF ACCESS](http://solarprotocol.net/sunthinking/vasudevan/)\n\n[Solar](http://solarprotocol.net/sunthinking/solar.html) | [Limits](http://solarprotocol.net/sunthinking/limits.html) | [Project](http://solarprotocol.net/sunthinking/projects.html)\n\n“Rhythm of Access” mirrors the natural rhythms of daylight by turning itself on and off with the sun. Whether the artwork is available to view—and the experience of the viewer as a result—ebbs and flows with the state of the Swarthmore Solar server, which is geographically closest to the artist's physical location. By ==bending the work to the conditions of nature==, instead of forcing nature to abide by the human demand for 24/7 access, Vasudevan denounces the indiscriminate, unending pursuit of scale and novelty, proffering instead a space for a more patient, contemplative, and localized relationship with technology.","x":-8097,"y":-9950,"width":625,"height":389},
 		{"id":"2502b28a830be685","type":"file","file":"assets/images/Pasted image 20230922140657.png","x":-8075,"y":-9546,"width":580,"height":225},
-		{"id":"6cf195a8380865ac","type":"text","text":"# [Iodine Dynamics](https://iodinedynamics.com/about.html)","x":-8110,"y":-12221,"width":250,"height":103},
 		{"id":"6948394ab9bb2fe7","type":"text","text":"## PV","x":-8365,"y":-9263,"width":100,"height":57},
 		{"id":"1eabde0c35fa88e9","type":"file","file":"assets/images/Pasted image 20230923172630.png","x":-8025,"y":-9072,"width":400,"height":217},
 		{"id":"0ed05c0211f59197","type":"text","text":"https://www.solarpowerforartists.com/","x":-7950,"y":-8823,"width":250,"height":60},
@@ -56,7 +54,6 @@
 		{"id":"a61724d0a98de719","type":"text","text":"# [[Solarpunk - Post-Industrial Design and Aesthetics]]","x":-12409,"y":-11860,"width":297,"height":155},
 		{"id":"c8bca5ea0a952529","type":"text","text":"# [[Solarpunk]]","x":-13040,"y":-12087,"width":384,"height":161},
 		{"id":"4146c86cda0709bc","type":"text","text":"# WRITING","x":-8904,"y":-14804,"width":250,"height":60},
-		{"id":"e8c88a134a9aea78","type":"text","text":"# Self-imposed Constraints","x":-9480,"y":-14450,"width":280,"height":120},
 		{"id":"fc564e2ea4f35bb0","type":"text","text":"# DESIGN","x":-8904,"y":-14421,"width":250,"height":60},
 		{"id":"c23daa2fdf589790","type":"text","text":"## Conceptual Writing","x":-7728,"y":-14744,"width":289,"height":71},
 		{"id":"4739aa59485cbeda","type":"file","file":"Pasted image 20231011114747.png","x":-7728,"y":-15040,"width":399,"height":266},
@@ -80,13 +77,16 @@
 		{"id":"4daa2fa2e2f7a7c9","type":"text","text":"# PMC DISPLAYS","x":-4652,"y":-13858,"width":333,"height":63},
 		{"id":"6173bc411b9b174a","type":"file","file":"assets/images/Pasted image 20230918142422.png","x":-6793,"y":-13735,"width":400,"height":400},
 		{"id":"6310968e7de783d6","type":"text","text":"## [[Bytebeat]]","x":-7329,"y":-14049,"width":250,"height":51,"color":"1"},
-		{"id":"d27a82929d87bbb9","type":"text","text":"# Comics as a form of **low-tech Cinema**","x":-7329,"y":-13240,"width":359,"height":130},
-		{"id":"53ddabd5775c1c8b","type":"text","text":"# [[Demoscene]]","x":-7329,"y":-13000,"width":250,"height":60},
-		{"id":"217494338a5fb652","type":"text","text":"# Software","x":-7329,"y":-12852,"width":250,"height":60},
 		{"id":"d3b886b89fb66227","type":"text","text":"## https://solar.lowtechmagazine.com/","x":-7728,"y":-14460,"width":305,"height":157,"color":"1"},
 		{"id":"af9a8512f63d72ce","type":"text","text":"# [[Solar Protocol]]","x":-7728,"y":-14290,"width":325,"height":77,"color":"1"},
 		{"id":"2a18430f6af0623e","type":"text","text":"## [[Low-Tech Magazine]]","x":-7223,"y":-14434,"width":253,"height":101},
-		{"id":"3a7ca4469da308ac","type":"text","text":"# [[self-hosting]]","x":-4880,"y":-12655,"width":309,"height":70}
+		{"id":"3a7ca4469da308ac","type":"text","text":"# [[self-hosting]]","x":-4880,"y":-12655,"width":309,"height":70},
+		{"id":"d27a82929d87bbb9","type":"text","text":"# Comics as a form of **low-tech Cinema**","x":-7618,"y":-13240,"width":359,"height":130},
+		{"id":"53ddabd5775c1c8b","type":"text","text":"# [[Demoscene]]","x":-7618,"y":-13000,"width":250,"height":60},
+		{"id":"217494338a5fb652","type":"text","text":"# SOFTWARE","x":-8404,"y":-12840,"width":250,"height":60},
+		{"id":"6cf195a8380865ac","type":"text","text":"# [Iodine Dynamics](https://iodinedynamics.com/about.html)","x":-7868,"y":-12618,"width":250,"height":103},
+		{"id":"5fc775fb8a7cc943","type":"text","text":"# VIDEO GAMES\n","x":-8404,"y":-12597,"width":250,"height":61},
+		{"id":"e8c88a134a9aea78","type":"text","text":"# Self-imposed vs external Constraints\n\naka. ***Less is more***\n\nSelf-imposed constraints through **alternative processes:**\n- formality\n- minimalistic aesthetics\n- small file sizes\n- use of poor/found materials: old/broken hardware\n\nExternal constraints due to **political and socio-economic reasons**.","x":-9770,"y":-14451,"width":530,"height":531}
 	],
 	"edges":[
 		{"id":"bda45b255c910a8f","fromNode":"f6ebe2213c7787d2","fromSide":"bottom","toNode":"6562853d2a2700aa","toSide":"top"},
@@ -143,6 +143,8 @@
 		{"id":"de944b5277f7f950","fromNode":"fc564e2ea4f35bb0","fromSide":"right","toNode":"8b4fa87f5e224119","toSide":"left"},
 		{"id":"bfde29c028c5d946","fromNode":"8b4fa87f5e224119","fromSide":"right","toNode":"53ddabd5775c1c8b","toSide":"left"},
 		{"id":"72a558cf4923c914","fromNode":"4c03c91bac871837","fromSide":"right","toNode":"6310968e7de783d6","toSide":"left"},
-		{"id":"91f6592fa62b604a","fromNode":"fc564e2ea4f35bb0","fromSide":"right","toNode":"4c03c91bac871837","toSide":"left"}
+		{"id":"91f6592fa62b604a","fromNode":"fc564e2ea4f35bb0","fromSide":"right","toNode":"4c03c91bac871837","toSide":"left"},
+		{"id":"4bec4a2c94d0d1a4","fromNode":"fc564e2ea4f35bb0","fromSide":"right","toNode":"217494338a5fb652","toSide":"left"},
+		{"id":"9fbb7a3700ae49b7","fromNode":"fc564e2ea4f35bb0","fromSide":"right","toNode":"5fc775fb8a7cc943","toSide":"left"}
 	]
 }
