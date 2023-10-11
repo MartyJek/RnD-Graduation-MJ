@@ -69,7 +69,6 @@ Like mentioned in the abstract: "... a different understanding of aesthetics, on
 
 This goes hand-in-hand with Simondons choice of a techno-asesthetic work: One that is functional, successful, and beautiful. And more so: The set of sensoric pleasure that goes with using a technically successful tool.
 
-#
 
 ---
 

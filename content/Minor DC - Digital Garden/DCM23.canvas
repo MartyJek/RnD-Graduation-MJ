@@ -56,7 +56,7 @@
 		{"id":"4146c86cda0709bc","type":"text","text":"# WRITING","x":-8904,"y":-14804,"width":250,"height":60},
 		{"id":"fc564e2ea4f35bb0","type":"text","text":"# DESIGN","x":-8904,"y":-14421,"width":250,"height":60},
 		{"id":"c23daa2fdf589790","type":"text","text":"## Conceptual Writing","x":-7728,"y":-14744,"width":289,"height":71},
-		{"id":"4739aa59485cbeda","type":"file","file":"Pasted image 20231011114747.png","x":-7728,"y":-15040,"width":399,"height":266},
+		{"id":"4739aa59485cbeda","type":"file","file":"assets/images/Pasted image 20231011114747.png","x":-7728,"y":-15040,"width":399,"height":266},
 		{"id":"3aa4f83593ace1f5","type":"text","text":"# http://collapseos.org/","x":-6393,"y":-12754,"width":377,"height":60},
 		{"id":"b425a935a7c1b349","type":"text","text":"[Winter is coming](http://collapseos.org/why.html) and Collapse OS aims to soften the blow. It is a Forth [(why Forth?)](http://collapseos.org/forth.html) operating system and a collection of tools and documentation with a single purpose: preserve the ability to program microcontrollers through [civilizational collapse](http://collapseos.org/civ.html)","x":-5766,"y":-12793,"width":537,"height":138},
 		{"id":"9fee483ff7d9f9e4","type":"text","text":"## [[UxN]]","x":-6377,"y":-12893,"width":250,"height":71,"color":"1"},
