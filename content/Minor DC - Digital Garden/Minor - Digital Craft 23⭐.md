@@ -61,23 +61,6 @@ The research tutorials will take place on **Thursday afternoons, 13.00 – 15.3
 
 ==FINAL:== Friday  December 15, 2023, 6 PM, please upload your document in Osiris.
 
-#### September: theory as research: reflect on references
-
-- contextualisation & substantiation of your concept/project
-- exploring / defining the core concepts/ current debate
-- positioning yourself towards the context of your project
-
-Context & Common Ground: Critical Reading
-7 Sept – 01: Crafting systems: current debate
-https://ars.electronica.art/who-owns-the-truth/en/theme-exhibition//
-14 Sep. 02: AI systems + bias
-Noble, Safiya Umoja. "Algorithms of oppression."
-Algorithms of Oppression. New York University Press, 2018., intro (PDF)
-21 sep 03: Plant-Machine systems: ethics of using bio systems
-https://www.spelapetric.org/plai
-28 Sep:04: Techno -bio encounters
-Haraway, Donna J. When species meet. Vol. 3. U of Minnesota Press, 2013.
-
 #### October/November: making as research: reflect on practice
 
 - exploring /experimenting (materials, technologies, systems, formats,
