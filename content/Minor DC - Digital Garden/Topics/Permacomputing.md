@@ -100,18 +100,22 @@ While operating locally and at present, be aware of the entire world-wide contex
 
 # Theory
 
-## [[Permacomputing Aesthetics|Aesthetics]]
-
+## [[Permacomputing Aesthetics|Aesthetics]] from a perspective on how we are looking at things, not only from how things are looking
 
 _Small is beautiful_: anti-[[maximalism]]
 
 - low-detail, low complexity, lo-fi, low graphics
-- optimalism aka capped maximalism
-- [[Demoscene]]
+- [[Demoscene]] 
+	- The dominant approach on the [demoscene](https://permacomputing.net/demoscene/) is optimalism, or "capped maximalism". It often proves that mass appeal can be reached despite tight limitations, **but the aesthetic basis is still maximalist – fitting a maximal amount of content within the limits, the more the better.**
+
 
 > Ideally, the low complexity itself can be a source of beauty: things can look good *because* of their smallness, not *despite* it. If this succeeds really well, even the most mainstreamy viewer won't be longing for more resolution or detail.
 
+
 > [!info] In video games, not the fidelity is important but the enjoyment of the game itself.
+
+**Related concepts**:
+[[Lateral Thinking with Withered Technology]]
 
 ### Transgression and immersion
 
