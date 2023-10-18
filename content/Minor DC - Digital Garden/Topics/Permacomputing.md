@@ -100,7 +100,10 @@ While operating locally and at present, be aware of the entire world-wide contex
 
 # Theory
 
-## [[Permacomputing Aesthetics|Aesthetics]] from a perspective on how we are looking at things, not only from how things are looking
+## [[Permacomputing Aesthetics|Aesthetics]] 
+
+- from a perspective on how we are looking at things, not only from how things are looking
+	- This reminds me of the same principle that Jack Burnham talked about in his We are now in transition from an _object-oriented_ to a _systems-oriented culture_. Here change emanates, not from _things_, but from _the way things are done_.
 
 _Small is beautiful_: anti-[[maximalism]]
 
