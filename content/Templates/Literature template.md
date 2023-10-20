@@ -8,10 +8,14 @@ tags:
   - archive
 ---
 
-___
-
-___
-
-
-**Links**:<br>
+**Links**: <br>
 **Source**: <br>
+___
+
+___
+
+**Type:**
+
+**Author**:
+
+**Year**:

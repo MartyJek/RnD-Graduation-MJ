@@ -1,4 +1,3 @@
-**Links**: [[Minor - Digital Craft 23⭐]]
 ___
 
 # INFO
@@ -31,19 +30,11 @@ Bring an article about the discourse about a current technological system that 
 
 - [x] Environmental robotics (Ivan Henriques)
 - [x] Remaining human (vimeo, cybernetics)
-
 - [x] Norbert Wiener ([[Cybernetics]]): Technologies as living systems
-
-- [ ] Doing research, conversation cycle
+- [x] Doing research, conversation cycle
 
 Article(s):
 
-[[Viznut]]
-https://arxiv.org/abs/1610.02484
-[[Permacomputing Aesthetics]]
-
----
-
-**Source**:
-**Tags**:
-**Links**:
+[[Viznut on Permacomputing]] <br>
+https://arxiv.org/abs/1610.02484 <br>
+[[Permacomputing Aesthetics]] <br>

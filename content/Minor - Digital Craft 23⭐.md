@@ -1,14 +1,22 @@
 
+# [[DCM23.canvas|DCM23]]
+
 # Practice
 
 >[!TIP] Next Step
->- [ ] Get Inspired
->- [ ] Discover [PMC Displays](https://en.wikipedia.org/wiki/Transflective_liquid-crystal_display)
->- [ ] Ask around for broken Laptops/Phones
+>- [ ] [[Small File Media Festival]]: Resources
+>- [ ] [[Crappy Everyday Tech Bingo]]: Find inspiration on visualising ICT failures
+>- [ ] Compare and note down: What are my PMC principles, relevant to my CG practices?
+
+
 
 # Theory
 
 >[!Question] Next Reads
+>
+>1. [[Aesthetics]]
+
+
 >
 > [[Solar Protocol]]
 >	- http://solarprotocol.net/sunthinking/pasek.html
@@ -60,23 +68,6 @@ The research tutorials will take place on **Thursday afternoons, 13.00 – 15.3
 ==DRAFT==: Friday November 17, 2023, please send by email to: [d.m.herst@hr.nl](mailto:d.m.herst@hr.nl)
 
 ==FINAL:== Friday  December 15, 2023, 6 PM, please upload your document in Osiris.
-
-#### September: theory as research: reflect on references
-
-- contextualisation & substantiation of your concept/project
-- exploring / defining the core concepts/ current debate
-- positioning yourself towards the context of your project
-
-Context & Common Ground: Critical Reading
-7 Sept – 01: Crafting systems: current debate
-https://ars.electronica.art/who-owns-the-truth/en/theme-exhibition//
-14 Sep. 02: AI systems + bias
-Noble, Safiya Umoja. "Algorithms of oppression."
-Algorithms of Oppression. New York University Press, 2018., intro (PDF)
-21 sep 03: Plant-Machine systems: ethics of using bio systems
-https://www.spelapetric.org/plai
-28 Sep:04: Techno -bio encounters
-Haraway, Donna J. When species meet. Vol. 3. U of Minnesota Press, 2013.
 
 #### October/November: making as research: reflect on practice
 

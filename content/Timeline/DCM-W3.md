@@ -1,4 +1,3 @@
-[[Minor - Digital Craft 23⭐]]
 ___
 # Progress
 

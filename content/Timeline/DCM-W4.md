@@ -1,5 +1,4 @@
-
-**Links**: [[Minor - Digital Craft 23⭐]]
+[Home](https://martyjek.github.io/DC-Research-MJ/) 
 ___
 
 # Progress

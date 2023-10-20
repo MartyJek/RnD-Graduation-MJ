@@ -1,6 +1,8 @@
 **Source**: [permacomputing.net](http://permacomputing.net)
 
-**Links**: [[On Permacomputing]]
+**Links**: <br>
+[[On Permacomputing]] <br>
+[[Viznut on Permacomputing]]
 
 **Paper**: [[Permacomputing Aesthetics]]
 
@@ -13,6 +15,8 @@ From [[Permaculture]] + Computing
 > Understandability is aesthetics, virtual does not mean immaterial and doing things with less is not *a return to the past*. We want to investigate what a permacomputing way of life could be, and what sort of transformative computational culture and aesthetics it could bring forward.
 
 # Design Principles
+
+>See also: [[On Permacomputing#PMC Principles x Computer Graphics| PMC Principles x Computer Graphics]]
 
 #### Care For Life
 
@@ -100,18 +104,26 @@ While operating locally and at present, be aware of the entire world-wide contex
 
 # Theory
 
-## [[Permacomputing Aesthetics|Aesthetics]]
+## Aesthetics
 
+**[[Permacomputing Aesthetics]]**
+
+- from a perspective on how we are looking at things, not only from how things are looking
+	- This reminds me of the same principle that Jack Burnham talked about in his essay on We are now in transition from an _object-oriented_ to a _systems-oriented culture_. Here change emanates, not from _things_, but from _the way things are done_.
 
 _Small is beautiful_: anti-[[maximalism]]
 
 - low-detail, low complexity, lo-fi, low graphics
-- optimalism aka capped maximalism
-- [[Demoscene]]
+- [[Demoscene]] 
+	- The dominant approach on the [demoscene](https://permacomputing.net/demoscene/) is optimalism, or "capped maximalism". It often proves that mass appeal can be reached despite tight limitations, **but the aesthetic basis is still maximalist – fitting a maximal amount of content within the limits, the more the better.**
 
 > Ideally, the low complexity itself can be a source of beauty: things can look good *because* of their smallness, not *despite* it. If this succeeds really well, even the most mainstreamy viewer won't be longing for more resolution or detail.
 
+
 > [!info] In video games, not the fidelity is important but the enjoyment of the game itself.
+
+**Related concepts**:
+[[Lateral Thinking with Withered Technology]]
 
 ### Transgression and immersion
 
@@ -121,9 +133,6 @@ Transgression is yang: it attempts to "break" or "push" the boundaries; to get a
 
 Immersion is yin: instead of breaking away from the typical and unrefined, it takes it as the basis to build on. The 1:1 square wave is now very much wanted. The individual characteristics of a system are appreciated and explored ever deeper.
 
-
-## [[Viznut|Viznut on Permacomputing]]
-
 # Practice
 
 **From [[Permacomputing Aesthetics]]**:
@@ -131,41 +140,6 @@ Immersion is yin: instead of breaking away from the typical and unrefined, it ta
 > In practice, permacomputing exists as two intertwined strands: first, an incentive to reuse and repurpose existing computer technology and materials to create new works; and second, a list of continuously evolving design principles, to guide that very reuse and repurposing, but also to inform the development of new software and hardware when reuse and repurposing are not possible or relevant.
 
 >Permacomputing is a practical critique on today's ICT culture. 
-## ![[On Permacomputing#'Hard vs. 'Soft' Permacomputing]]
-
-## Examples
-
-### Hard PMC
-
-- [[Bytebeat]]
-- [[Bit art]]
-- [[UxN]]
--
-
-### Soft PMC
-
-
-## Visual Art
-
-### PMC Displays
-
-[Transflective liquid-crystal display - Wikipedia](https://en.wikipedia.org/wiki/Transflective_liquid-crystal_display)
-
-# Permacomputing in the Arts - Workshop 16/03/23
-
-#### About
-
-The permacomputing in the arts workshop series is part of a postdoc research from [ugrnm](https://permacomputing.net/ugrnm/)exploring to what degree the concept of permacomputing can be broadened and applied to critically revised, sustainable ways of making computing part of art and design education and professional practice. This research will be embedded in the design curriculum of Willem de Kooning Academy, Rotterdam, NL, **focused on redefining the role of artists and designers to contribute to future modes of more sustainable organisation and production.**
-
-It is part of a larger research and effort to develop new curricula to support artists and designers materialise and contribute to alternative modes of organisation and production based on strong ecological and cooperative/collaborative values. It seeks to reflect on, experiment and engage with such alternatives while bringing the urgency of the climate crisis and climate justice to art and design education, while remaining critical of techno-solutionism and the language of circularity and sustainability.
-
-#### Issue
-
-For the past decades, art academies have expanded their curricula from traditional fine art practices, such as painting and sculpture, to work with computer technology. It can take the form of an installation, a performance, a graphic design, a data visualisation, and will often use computer technology for the making, publishing, and circulation of the work. However, ==artists and designers are not educated to assess to which degree their practice could be environmentally problematic and extractive.== This is an issue by itself and gets worse once entering both speculative and applied practices that have the ambition to engage with environmental issues.
-
-For instance, a graphic designer can be commissioned to program an interactive website to explain the energy impact of digital media. If the website is programmed in a way that requires resource-intensive computing in data centres and drains the batteries of the visitor's phone or laptop, then instead of being an exemplary and generative contribution, it risks to remain symbolic, or in a performative contradiction to its stated goal. At worst, it may even be an alibi for environmentally harmful practices and technologies. This is a problem because it seriously weakens and undermines the interdependent relation between the cultural sector, art and design education, and policymaking. It is also a missed opportunity to showcase forward-looking practices that could be both creative and more sustainable.
-
-==Permacomputing could promote a transition from a system where creative practitioners use the latest digital tools and media, regardless of environmental consequences, to a more strategic system in which digital tools and media of all generations, are carefully combined, crafted and used to form a less extractive practice.==
 
 # Related Concepts
 
@@ -180,3 +154,4 @@ For instance, a graphic designer can be commissioned to program an interactive w
 # Further Reads
 
 [Unconventional computing - Wikipedia](https://en.wikipedia.org/wiki/Unconventional_computing)
+

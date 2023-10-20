@@ -1,5 +1,5 @@
 ---
-title: Research Garden — Minor Digital Craft
+title: 🌿 Research Garden — Minor Digital Craft
 ---
 
 Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
@@ -12,14 +12,15 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 - [x] [[DCM-W4]]
 - [x] [[DCM-W5]]
 - [x] [[DCM-W6]]
-- [ ] [[DCM-W7]]
+- [x] [[DCM-W7]]
 
 # Practice
 
 ## Thoughts 💭
 ### On Permacomputing
   - [[On Permacomputing#Transitioning into postdigital techno-aesthetics]]
-    - [[On Permacomputing#'Hard vs. 'Soft' Permacomputing]]
+    - [[On Permacomputing#'Hard vs. 'Soft' Permacomputing]] <br> <br>
+  - [[Permacomputing# PMC Principles x Computer Graphics]]
       
 ### On Self-Hosting
   - [[memory graveyard - a haiku]]
