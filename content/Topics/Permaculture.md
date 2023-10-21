@@ -1,4 +1,4 @@
-<img src="docs/assets/images/permaculturechicken.png">
+<img src=".docs/assets/images/permaculturechicken.png">
 
 
 
