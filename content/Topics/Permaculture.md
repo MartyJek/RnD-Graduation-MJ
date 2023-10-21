@@ -1,6 +1,4 @@
-<img src=".docs/assets/images/permaculturechicken.png">
-
-
+![[pmcchicken.png]]
 
 > Permaculture is a philosophy of working with, rather than against nature; of protracted and thoughtful observation rather than protracted and thoughtless labor; and of looking at plants and animals in all their functions, rather than treating any area as a single product system.[^1]
 > — Bill Mollison
