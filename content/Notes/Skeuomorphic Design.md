@@ -1,4 +1,0 @@
-
-> A **skeuomorph** (also spelled skiamorph, ) is a derivative object that retains ornamental design cues (attributes) from structures that were necessary in the original. Skeuomorphs are typically used to make something new feel familiar in an effort to speed understanding and acclimation. They employ elements that, while essential to the original object, serve no pragmatic purpose in the new system. Examples include pottery embellished with imitation rivets reminiscent of similar pots made of metal and a software calendar that imitates the appearance of binding on a paper desk calendar.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Skeuomorph)
