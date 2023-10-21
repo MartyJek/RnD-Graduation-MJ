@@ -20,7 +20,7 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 ### On Permacomputing
   - [[On Permacomputing#Transitioning into postdigital techno-aesthetics]]
     - [[On Permacomputing#'Hard vs. 'Soft' Permacomputing]] <br> <br>
-  - [[Permacomputing# PMC Principles x Computer Graphics]]
+  - [[On Permacomputing# PMC Principles x Computer Graphics]]
       
 ### On Self-Hosting
   - [[memory graveyard - a haiku]]
