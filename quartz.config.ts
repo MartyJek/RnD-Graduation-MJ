@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "martyjek.github.io/DC-Research-MJ",
-    ignorePatterns: ["private", "Templates", ".obsidian", "assets"],
+    ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {

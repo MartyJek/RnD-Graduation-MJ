@@ -5,7 +5,7 @@ title: 🌿 Research Garden — Minor Digital Craft
 Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 
 
-<img src="/img/pmcchicken.png" width="200" >
+![[pmcchicken.png]]
 
 # Timeline
 
