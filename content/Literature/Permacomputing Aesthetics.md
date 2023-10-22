@@ -6,11 +6,22 @@ Year: 2023
 Status: processed
 Subject: "permacomputing, aesthetics, computational culture, art, design, cultural\rproduction, constraints, environmentalism, electronic waste,\rre-use"
 tags:
-  - school/paper
+  - pmc
+  - aesthetics
+  - techno-aesthetics 
+
 Links: "[[Permacomputing]]"
 ---
+**Type:** paper
 
----
+**Author(s):** Aymeric Mansoux, Brendan Howell, Dušan Barok, Ville-Matias Heikkilä
+
+**Year:** 2023
+
+**Source:** https://limits.pubpub.org/pub/6loh1eqi/release/1
+
+**Links**: [[Permacomputing]]
+___
 
 > Permacomputing could therefore be an effective cultural counter-voice to a digital aesthetic that encourages maximisation, e.g. high bandwidth, high resolution, more computing power at any cost, for anything, sensing and capturing more, while making less and less sense, ultimately rendering us insensitive to the harm and damage we legitimise
 
@@ -30,7 +41,7 @@ In this paper, we argue for the potential of ==permacomputing as a rich framewor
 
 # 3 Art, Design and Cultural Work under Constraints
 
-## Constraints: *Less is more*
+## Self-initiated constraints: *Less is more*
 
 ### Examples:
 
@@ -101,15 +112,7 @@ This goes hand-in-hand with Simondons choice of a techno-asesthetic work: One th
 
 ---
 
-**Type:** paper
 
-**Author(s):** Aymeric Mansoux, Brendan Howell, Dušan Barok, Ville-Matias Heikkilä
-
-**Year:** 2023
-
-**Source:** [Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture · Ninth Computing within Limits 2023](https://limits.pubpub.org/pub/6loh1eqi/release/1
-
-**Links**: [[Permacomputing]]
 
 **References**:
 

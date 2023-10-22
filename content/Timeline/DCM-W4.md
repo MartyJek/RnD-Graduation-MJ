@@ -1,9 +1,4 @@
-[Home](https://martyjek.github.io/DC-Research-MJ/) 
 ___
-
-# Progress
-
-## ![[On Permacomputing]]
 # INFO
 
 **Week 4 (38) 21 Sept:**  Context & Common Ground (Critical Reading 03)
