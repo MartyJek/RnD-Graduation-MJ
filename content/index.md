@@ -13,7 +13,8 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 - [x] [[W5]]
 - [x] [[W6]]
 - [x] [[W7]]
-- [x] [[W8]]
+- [x] [[W8 –  Autumn break + Midterms]]
+- [ ] [[W9]]
 
 # Practice
 
