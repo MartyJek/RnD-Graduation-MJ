@@ -7,14 +7,19 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 
 # Timeline
 
-- [x] [[DCM-W2]]
-- [x] [[DCM-W3]]
-- [x] [[DCM-W4]]
-- [x] [[DCM-W5]]
-- [x] [[DCM-W6]]
-- [x] [[DCM-W7]]
+- [x] [[W2]]
+- [x] [[W3]]
+- [x] [[W4]]
+- [x] [[W5]]
+- [x] [[W6]]
+- [x] [[W7]]
+- [x] [[W8]]
 
 # Practice
+
+## Concepting 
+
+
 
 ## Thoughts 💭
 ### On Permacomputing
