@@ -20,7 +20,18 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 
 ## Concepting 
 
+**[[Concept Plan]]**
 
+# Theory
+
+## Topics
+
+- [[Solarpunk]]
+  - [[Permacomputing]]
+
+## Deliverables
+
+**[[Midterm-Paper]]**
 
 ## Thoughts 💭
 ### On Permacomputing
@@ -30,13 +41,6 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
       
 ### On Self-Hosting
   - [[memory graveyard - a haiku]]
-
-# Theory
-
-## Topics
-
-- [[Solarpunk]]
-  - [[Permacomputing]]
 
 ## Literature
 

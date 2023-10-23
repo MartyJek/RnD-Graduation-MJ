@@ -7,8 +7,6 @@ ___
 
 ## Practice
 
--
-
 ___
 
 # Process

@@ -8,10 +8,9 @@ ___
 	- the overarching system of ICT maximalisation
 		- **through** the medium
 
-
 ___
-# Concept
-
+# Concept Draft 
+V1
 ## Digital interactive, process-oriented installation (performance)
 
 <u> Depicting </u>
@@ -19,10 +18,14 @@ ___
 1. Eco-consciousness in digital media
 2. Postdigital Aesthetics
 
+![[IMG_0077.jpg]]
+
 ___
+# Moodboard
 
+V1
 
-
+![[Pasted image 20231023171009.png]]
 
 
 
