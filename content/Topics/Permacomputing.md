@@ -143,13 +143,13 @@ Immersion is yin: instead of breaking away from the typical and unrefined, it ta
 
 # Related Concepts
 
-## [Frugal Computing](https://limited.systems/articles/frugal-computing/)
+[Frugal Computing](https://limited.systems/articles/frugal-computing/)
 
-## [Smolnet](https://communitywiki.org/static/SmolNet.html)
+[Smolnet](https://communitywiki.org/static/SmolNet.html)
 
-## [[Gemini Project]]
+[[Gemini Project]]
 
-## [Compudanzas](https://compudanzas.net/permacomputing.html)
+[Compudanzas](https://compudanzas.net/permacomputing.html)
 
 # Further Reads
 
