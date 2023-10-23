@@ -12,7 +12,7 @@ ___
 ___
 # Concept
 
-## Digital interactive installation (performance)
+## Digital interactive, process-oriented installation (performance)
 
 <u> Depicting </u>
 
