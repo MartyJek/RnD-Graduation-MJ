@@ -2,8 +2,8 @@ ___
 # Goal of the Project
 
 - **Make aware of and expose**
-	- energy use in content consumption
-		- **through** attaching a Wattmeter in each computational component
+	- energy use in digital media e.g. content consumption
+		- **through** attaching a Wattmeter in each computational component of the installation 
 	- the underlying processes of media streaming
 	- the overarching system of ICT maximalisation
 		- **through** the medium
@@ -11,6 +11,19 @@ ___
 
 ___
 # Concept
+
+## Digital interactive installation (performance)
+
+<u> Depicting </u>
+
+1. Eco-consciousness in digital media
+2. Postdigital Aesthetics
+
+___
+
+
+
+
 
 
 

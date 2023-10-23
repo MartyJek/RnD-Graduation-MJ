@@ -1,8 +1,13 @@
 ___
 # To Do
 
+## Theory
+
 - [x] [[Midterm-Paper]]
 
+## Practice
+
+-
 
 ___
 
