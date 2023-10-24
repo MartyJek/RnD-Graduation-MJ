@@ -1,4 +1,13 @@
 ___
+# Introduction
+
+## Research Question
+
+### V1
+
+>**How can you explore eco-consciousness in computer graphics based on Permacomputing design principles?**
+
+
 # Goal of the Project
 
 - **Make aware of and expose**
@@ -6,12 +15,14 @@ ___
 		- **through** attaching a Wattmeter in each computational component of the installation 
 	- the underlying processes of media streaming
 	- the overarching system of ICT maximalisation
-		- **through** the medium
+		- **through** the medium (?)
 
 ___
 # Concept Draft 
-V1
-## Digital interactive, process-oriented installation (performance)
+
+## V1
+
+**Exploring Permacomputing design principles through an interactive installation (performance)**
 
 <u> Depicting </u>
 
