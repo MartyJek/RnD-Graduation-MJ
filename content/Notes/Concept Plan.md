@@ -5,7 +5,17 @@ ___
 
 ### V1
 
+>How can you ~~define~~ **explore** a biosphere-aware techno-aesthetics in computer graphics within permacomputing design principles?
+
+
+### V2
+
 >**How can you explore eco-consciousness in computer graphics based on Permacomputing design principles?**
+
+
+### V3
+
+>**How can I explore and make aware of [[Ecomedia]] in an interactive media installation based on Permacomputing design principles**
 
 
 # Goal of the Project
