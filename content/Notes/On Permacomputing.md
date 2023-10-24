@@ -17,8 +17,9 @@ tags:
 
 
 ___
+# Transitioning into postdigital , eco-conscious practices
 
-# Transitioning into postdigital , eco-conscious techno-aesthetics
+#postdigital #eco-consciousness #techno-aesthetics 
 
 Coming from a computational extractive background that features playing around with the newest technological tools (e.g. photorealism, physics simulation in CG; anything-AI) the transitioning from the world of [[The trap of mesmerizing aesthetics|mesmerizing aesthetics]] into <u>mindful aesthetics</u> proves difficult. 
 
