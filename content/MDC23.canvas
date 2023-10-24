@@ -137,7 +137,6 @@
 		{"id":"4a63555dc8137387","type":"file","file":"assets/images/Pasted image 20230422074014.jpg","x":-5628,"y":731,"width":1276,"height":892},
 		{"id":"ecfa9642495041ab","type":"text","text":"# Interactivity","x":-2241,"y":473,"width":211,"height":51},
 		{"id":"0d6309b0f0416edb","type":"file","file":"assets/images/Pasted image 20230422074134.jpg","x":-2309,"y":574,"width":1082,"height":819},
-		{"id":"1cf353102c0b011f","type":"file","file":"assets/images/Pasted image 20231023145918.png","x":-4102,"y":-2026,"width":853,"height":484},
 		{"id":"fdf96170cfbd6b1b","type":"text","text":"# 3D Graphics","x":-4137,"y":-970,"width":250,"height":60},
 		{"id":"eb85c36311530b6e","type":"text","text":"# lofi graphics","x":-5797,"y":-970,"width":429,"height":60},
 		{"id":"cdca71ea1a7722c5","type":"text","text":"# Blender 3D","x":-4137,"y":-840,"width":250,"height":60},
@@ -169,7 +168,8 @@
 		{"id":"2081b62fc341542e","type":"file","file":"assets/images/Pasted image 20230325093148.jpg","x":-4877,"y":-2307,"width":400,"height":341},
 		{"id":"0af8c453fde01e97","type":"file","file":"assets/images/Pasted image 20231023145827.jpg","x":-5797,"y":-1771,"width":857,"height":320},
 		{"id":"71b385a09874ebbf","type":"text","text":"![[Small File Media Festival]]","x":-6720,"y":-1451,"width":683,"height":1211},
-		{"id":"24a1a42b1ff1fe64","type":"link","url":"https://smallfile.ca/","x":-6649,"y":-1966,"width":541,"height":400}
+		{"id":"24a1a42b1ff1fe64","type":"link","url":"https://smallfile.ca/","x":-6649,"y":-1966,"width":541,"height":400},
+		{"id":"1cf353102c0b011f","type":"file","file":"assets/images/Pasted image 20231023145918.png","x":-4102,"y":-2026,"width":853,"height":484}
 	],
 	"edges":[
 		{"id":"bda45b255c910a8f","fromNode":"f6ebe2213c7787d2","fromSide":"bottom","toNode":"6562853d2a2700aa","toSide":"top"},

@@ -58,7 +58,7 @@ ___
 1. Eco-consciousness in digital media
 2. Postdigital Aesthetics
 
-![[IMG_0077.jpg|]]
+![[IMG_0077.jpg]]
 
 ___
 # Moodboard
