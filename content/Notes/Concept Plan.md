@@ -1,6 +1,10 @@
 ___
 # Introduction
 
+>*"Unlike Simondon’s techno-aesthetics, which may eventually iteratively find a pleasing equilibrium between functional technique and aesthetics, permacomputing’s techno-aesthetics are much more perilous because a third component is forced in: an informed and contextualised intention to address the social, cultural, environmental and economic externalities of maximalist computer and network technologies."*
+>- Mansoux et. al: [[Permacomputing Aesthetics]]
+
+___
 ## Research Question
 
 ### V1
@@ -33,16 +37,15 @@ ___
 # Goal of the Project
 
 - **Make aware of and expose**
-	- energy use in digital media e.g. content consumption
-		- **through** attaching a Wattmeter in each computational component of the installation 
-	- the underlying processes of media streaming
-		- 
+
+	- energy use in streaming of digital media
+		- **through** the interactivity in the piece
+			- e.g. attaching a Wattmeter in each computational component of the installation 
+		
 	- the overarching system of ICT maximalisation
-		- **through** the medium (?)
+		- **through** the postdigital aesthetics of the medium being displayed
 <br>
 
-
-*"Unlike Simondon’s techno-aesthetics, which may eventually iteratively find a pleasing equilibrium between functional technique and aesthetics, permacomputing’s techno-aesthetics are much more perilous because a third component is forced in: an informed and contextualised intention to address the social, cultural, environmental and economic externalities of maximalist computer and network technologies."*
 ___
 # Concept Draft 
 
