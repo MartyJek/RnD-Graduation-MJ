@@ -1,1 +1,1 @@
-![[MDC - Midterm Document.pdf]]
+![[MDC - Midterm Document.pdf]]![[MJ_DCM_MidtermDoc.pdf]]

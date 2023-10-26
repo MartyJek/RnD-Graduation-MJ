@@ -18,6 +18,7 @@ Links: "[[Permacomputing]]"
 
 **Year:** 2023
 
+
 **Source:** https://limits.pubpub.org/pub/6loh1eqi/release/1
 
 **Links**: [[Permacomputing]]
@@ -27,7 +28,7 @@ ___
 
 # Abstract
 
-[[Permacomputing]] is a nascent concept and a community of practice centred around ==design principles that embrace limits and constraints as a positive thing in computational culture, and on creativity with scarce computational resources.==As a result, permacomputing aims to provide a countervoice to digital practices that promote maximisation, hyper-consumption and waste. It seeks to ==encourage practices as an applied critique of contemporary computer technology that privileges maximalist aesthetics== where more pixels, more frame rate, more computation and more power equals more potential at any cost and without any consequences. We believe that such a critical practice can be relevant to artists, designers and cultural practitioners working with computer and network tech-nology who are interested in engaging with environmental issues. This is particularly relevant given the tendency in art, design and cultural production to rely on tools and techniques designed to maximise productivity and mass consumption.
+[[Permacomputing]] is a nascent concept and a community of practice centred around ==design principles that embrace limits and constraints as a positive thing in computational culture, and on creativity with scarce computational resources.==As a result, permacomputing aims to provide a countervoice to digital practices that promote maximisation, hyper-consumption and waste. It seeks to ==encourage practices as an applied critique of contemporary computer technology that privileges maximalist aesthetics== where more pixels, more frame rate, more computation and more power equals more potential at any cost and without any consequences. We believe that such a critical practice can be relevant to artists, designers and cultural practitioners working with computer and network technology who are interested in engaging with environmental issues. This is particularly relevant given the tendency in art, design and cultural production to rely on tools and techniques designed to maximise productivity and mass consumption.
 In this paper, we argue for the potential of ==permacomputing as a rich framework for exploring creative design constraints== building on a long history of applying constraints in art, design and cultural practices. Because of the need to reconfigure the modes of production and organisation within computational practices, this calls for a ==different understanding of aesthetics, one that goes beyond the formal evaluation of how things look, but addresses how aesthetics can also be systems of relations, sensing and making sense that are already present in the process of making.== We will also discuss the challenges faced by permacomputing practitioners, such as the complicated link with retro-computing, post-digital culture and nostalgia, as well as the problem of constraints in relation to the aesthetisation of poverty, and more generally what it means to work with self-imposed limits in a more privileged socioeconomic context.
 
 # 2 Deceptive Maximalist Techno-Aesthetics
@@ -71,7 +72,7 @@ In this paper, we argue for the potential of ==permacomputing as a rich framewor
 - [Gambiarra in Brazil](https://www.makery.info/en/2015/03/31/gambiarra-la-culture-de-la-reparation/)
 - [Jugaaḍ](), applied to concrete problems by repurposing objects and with limited resources, including the unexpected reconfiguration of media saturation in South Asia
 
-## So, 
+So, 
 
 >what would it mean to address the urgency to the point of completely reconfiguring a practice? Is it dilettantism? Virtue signalling? Artivism? Or just a symbolic gesture?
 

@@ -3,7 +3,7 @@ ___
 
 ![[Untitled_Artwork.jpg]]
 
->*"Unlike Simondon’s techno-aesthetics, which may eventually iteratively find a pleasing equilibrium between functional technique and aesthetics, permacomputing’s techno-aesthetics are much more perilous because a third component is forced in: an informed and contextualised intention to address the social, cultural, environmental and economic externalities of maximalist computer and network technologies."*
+>*"Unlike Simondon’s techno-aesthetics, which may eventually iteratively find a pleasing equilibrium between functional technique and aesthetics, permacomputing’s techno-aesthetics are much more perilous because ==a third component is forced in: an informed and contextualised intention to address the social, cultural, environmental and economic externalities of maximalist computer and network technologies==."*
 >- Mansoux et. al: [[Permacomputing Aesthetics]]
 
 ___
@@ -40,7 +40,7 @@ ___
 
 - **Make aware of and expose**
 
-	- energy use in streaming of digital media
+	- energy use in media streaming (and computer graphics)
 		- **through** the interactivity in the piece
 			- e.g. attaching a Wattmeter in each computational component of the installation 
 		

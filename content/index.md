@@ -44,8 +44,9 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 
 ## Literature
 
-| <div style="width:100px">Title</div> | <div style="width:100px">Author(s)</div> | <div style="width:40px">Type</div> | KeyWords |
+| <div style="width:100px">Title</div> | <div style="width:100px">Author(s)</div> | <div style="width:40px">Type</div> | Keywords |
 | --- | --- | --- | --- |
+| What is 'post-digital? | Florian Cramer | Journal | #postdigital #aesthetics 
 | Digital Esthetics, environmental change and the subcultures of computer art | V Heikkilä | paper | #permacomputing, #aesthetics, |
 | On techno-aesthetics | Gilbert Simondon | Letter/Essay | #techno-aesthetics; architecture
 | Should Data Expire? Entropy and Permanence in Digital Landscapes (2022) | Ash Honor | Essay | data; the Cloud; problematization; #self-hosting|
