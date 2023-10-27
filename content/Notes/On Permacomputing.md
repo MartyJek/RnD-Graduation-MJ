@@ -3,13 +3,15 @@ draft: false
 date: 
 tags:
   - pmc
-  - self-hosting
+  - techno-aesthetics
+  - permacomputing
+  - selfhosting
   - memories
   - archive
-  - techno-aesthetics
 ---
 
 **Links**:<br>
+[[Thoughts.canvas]]<br>
 [[Permacomputing]] <br>
 [[On Techno-Aesthetics]] <br>
 [[postdigital]] <br>
@@ -17,11 +19,11 @@ tags:
 
 
 ___
-# Transitioning into postdigital , eco-conscious practices
+# Transitioning into postdigital techno-aesthetics
 
 #postdigital #eco-consciousness #techno-aesthetics 
 
-Coming from a computational extractive background that features playing around with the newest technological tools (e.g. photorealism, physics simulation in CG; anything-AI) the transitioning from the world of [[The trap of mesmerizing aesthetics|mesmerizing aesthetics]] into <u>mindful aesthetics</u> proves difficult. 
+Coming from a computational extractive background that features playing around with the newest technological tools (e.g. photorealism, physics simulation in 3D; anything-AI) the transitioning from the world of [[The trap of mesmerizing aesthetics|mesmerizing aesthetics]] into <u>mindful aesthetics</u> proves difficult. 
 
 While trying to figure out in what way(s) I can shift my direction (or attention?) I've come to understand that a radical switch to a Permacomputing (PMC) framework is possible <u>but hardly sensible.</u>
 
@@ -39,9 +41,10 @@ ___
 aka. [[Permacomputing Spectrum]]
 
 ___
+__
 # PMC Principles x Computer Graphics
 
->Which [[Permacomputing#Design Principles|Permacomputing principles]] intersect with eco-conscious use of Computer Graphics?
+>Which [[Permacomputing#Design Principles|Permacomputing principles]] intersect with the [[Ecomedia|sustainable use]] of Computer Graphics?
 
 #### Care for Life
 
@@ -70,3 +73,21 @@ ___
 
 - How can I make aware of mindful computing through my art?
 - In what ways can I expose evil maximalist tendencies of ICT culture?
+
+___
+
+# Comparing and Mapping 'Small Tech' related terminology and practices
+
+**Links**:<br>
+**Source**: [[A pluriverse of local worlds - a review of Computing within Limits related terminology and practices]]<br>
+___
+
+___
+
+
+[[So]]
+
+# The Role of Computer Graphics in Ecomedia
+
+
+

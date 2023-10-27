@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"bcb4f9a8d53c6b57","x":1040,"y":-120,"width":320,"height":60,"type":"text","text":"## 'Green' Capitalism"},
+		{"id":"28461fe01a576586","x":-120,"y":-120,"width":366,"height":55,"type":"text","text":"# PMC terminology"},
+		{"id":"0ffd05588ee89088","x":-584,"y":178,"width":250,"height":102,"color":"6","type":"text","text":"## Liberatory Technology"},
+		{"id":"0fa3187f6230bfe1","x":-66,"y":172,"width":250,"height":108,"color":"6","type":"text","text":"## Appropriate Technology"},
+		{"id":"d14e6539c2479335","x":480,"y":175,"width":250,"height":102,"color":"6","type":"text","text":"## Convivial Technology"},
+		{"id":"00fb443a10f14022","x":-1840,"y":85,"width":625,"height":282,"type":"text","text":"### Rooted in anti-technocratic critique, anarchism and proposals for human-scale technologies, they promote ideas of decentralisation, \"enoughness\" and degrowth that should never have gone out of fashion."},
+		{"id":"d50b4ed1504629e6","x":-156,"y":480,"width":430,"height":360,"type":"text","text":"In their essay Appropriate Measures, Jackie Brown and Philippe Mesly point out that social transformation doesn’t happen through technology, not without a clear political agenda to accompany it [4]. They point out that AT didn’t engage with the reasons why the Global South was struggling and the Global North was overconsuming, and instead aimed at fighting symptoms rather than the disease."},
+		{"id":"7a5ff35bdee0eaef","x":-178,"y":1120,"width":474,"height":560,"type":"text","text":"# Computing within Limits\n\n>Computing within Limits itself, which brings together three principles, according to a 2018 paper by Nardi et al.[24]: it questions growth and aims instead for a steady-state economy, it considers models of scarcity in order to promote resilience in a diversity of current and future contexts, and lastly it aims at reducing energy and material consumption while avoiding the Jevons paradox or rebound effect, in which gains in efficiency often result in lower costs, a subsequent growing demand and increased resource consumption."},
+		{"id":"adbc39651a58c4e8","x":1080,"y":1080,"width":491,"height":640,"type":"text","text":"## Collapse Informatics\n\n>It is based on decentralisation, not only because current centralised services and networks will break down, but also because peer-to-peer infrastructures are more resilient and flexible. It aims for simplicity—software should function on existing hardware—and modularity in order to enable a diversity of combinations and implementations. Systems need to be resilient to intermittent energy supply and network connectivity. Next to that collapse informatics should prioritize community needs and make use of open source licenses to contribute to a knowledge commons in order to be able to succeed in case of economic collapse."},
+		{"id":"04071bcbce8ad48e","x":-1120,"y":1184,"width":395,"height":433,"type":"text","text":"## Benign Computing\n\n>design framework, inspired by appropriate technology, that aims at computing systems that are less likely to produce harm to the ecosystem and subsequently human society.\n\n>Sevareid’s Law, which states that the chief source of problems are solutions."},
+		{"id":"e424a704e082ad1f","x":-108,"y":2013,"width":335,"height":467,"type":"text","text":"## Smallnet\n\n>small technology, smallnet and smolnet are associated with communities using alternative network infrastructures, delinking from the commercial Internet.\n\n>This community approaches everyday (network) practice as a site of political struggle."},
+		{"id":"f04fa4f23aea2f8f","x":640,"y":2013,"width":240,"height":123,"type":"text","text":"## Salvage Computing"},
+		{"id":"7651f9a1adb927ce","x":-725,"y":2012,"width":400,"height":400,"type":"file","file":"Topics/Permacomputing.md"},
+		{"id":"3c165e25fb0d12a7","x":1200,"y":2040,"width":338,"height":69,"type":"text","text":"## Right to Repair"},
+		{"id":"d3f0651f11c307aa","x":1813,"y":2043,"width":250,"height":60,"type":"text","text":"## iFitit"}
+	],
+	"edges":[
+		{"id":"8f29c3be63fd5626","fromNode":"28461fe01a576586","fromSide":"right","toNode":"bcb4f9a8d53c6b57","toSide":"left"},
+		{"id":"ee4f21f6dbfe9a52","fromNode":"28461fe01a576586","fromSide":"bottom","toNode":"0ffd05588ee89088","toSide":"top"},
+		{"id":"0cb1832d31b057be","fromNode":"28461fe01a576586","fromSide":"bottom","toNode":"0fa3187f6230bfe1","toSide":"top"},
+		{"id":"b85c9e4ba54197f2","fromNode":"28461fe01a576586","fromSide":"bottom","toNode":"d14e6539c2479335","toSide":"top"},
+		{"id":"627e861e5042f883","fromNode":"0fa3187f6230bfe1","fromSide":"left","toNode":"0ffd05588ee89088","toSide":"right","toEnd":"none"},
+		{"id":"f0eae9b2c81a1794","fromNode":"0fa3187f6230bfe1","fromSide":"right","toNode":"d14e6539c2479335","toSide":"left","toEnd":"none"},
+		{"id":"7bfe104e1890c698","fromNode":"0ffd05588ee89088","fromSide":"left","toNode":"00fb443a10f14022","toSide":"right"},
+		{"id":"433ace00f6387c20","fromNode":"0fa3187f6230bfe1","fromSide":"bottom","toNode":"d50b4ed1504629e6","toSide":"top","label":"didn't work out"},
+		{"id":"321b8f89025c71af","fromNode":"d50b4ed1504629e6","fromSide":"bottom","toNode":"7a5ff35bdee0eaef","toSide":"top","label":"so"},
+		{"id":"62ddd9ed27b32422","fromNode":"7a5ff35bdee0eaef","fromSide":"left","toNode":"04071bcbce8ad48e","toSide":"right"},
+		{"id":"8a4ce1da382750ff","fromNode":"7a5ff35bdee0eaef","fromSide":"right","toNode":"adbc39651a58c4e8","toSide":"left"},
+		{"id":"b3e43a7146d0d642","fromNode":"7a5ff35bdee0eaef","fromSide":"bottom","toNode":"7651f9a1adb927ce","toSide":"top"},
+		{"id":"b88181066bec3892","fromNode":"7a5ff35bdee0eaef","fromSide":"bottom","toNode":"e424a704e082ad1f","toSide":"top"},
+		{"id":"fd69d035ccf41b47","fromNode":"7a5ff35bdee0eaef","fromSide":"bottom","toNode":"f04fa4f23aea2f8f","toSide":"top"},
+		{"id":"bfccb1f3ed9183d1","fromNode":"f04fa4f23aea2f8f","fromSide":"right","toNode":"3c165e25fb0d12a7","toSide":"left","toEnd":"none"},
+		{"id":"7923c6ed39b7d975","fromNode":"3c165e25fb0d12a7","fromSide":"right","toNode":"d3f0651f11c307aa","toSide":"left"}
+	]
+}

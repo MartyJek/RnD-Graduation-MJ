@@ -1,7 +1,15 @@
+---
+draft: false
+date: 
+tags:
+  - pmc
+  - techno-aesthetics
+---
+
 **Source**: [permacomputing.net](http://permacomputing.net)
 
 **Links**: <br>
-[[On Permacomputing]] <br>
+[[On Permacomputing|Thoughts on Permacomputing|]] <br>
 [[Viznut on Permacomputing]]
 
 **Paper**: [[Permacomputing Aesthetics]]

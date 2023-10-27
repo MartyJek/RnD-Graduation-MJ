@@ -4,8 +4,10 @@ date:
 tags:
 - techno-aesthetics
 - aesthetics
-
 ---
+
+**Links**: <br>[[Permacomputing]]
+
 ___
 # Abstract 
 
