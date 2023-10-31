@@ -28,7 +28,8 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 
 - [[Solarpunk]]
   - [[Permacomputing]]
-
+	  - [[Permacomputing Aesthetics]]
+	  - [[Ecomedia]]
 ## Deliverables
 
 **[[Midterm-Paper]]**
@@ -36,7 +37,9 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 ## Thoughts 💭
 ### On Permacomputing
   - [[On Permacomputing#Transitioning into postdigital techno-aesthetics]]
-    - [[On Permacomputing#'Hard vs. 'Soft' Permacomputing]] <br> <br>
+   
+    - [[On Permacomputing#'Hard vs. 'Soft' Permacomputing]] 
+    - [[On Permacomputing#The postdigital in permacomputing aesthetics]]<br> <br>
   - [[On Permacomputing# PMC Principles x Computer Graphics]]
       
 ### On Self-Hosting
