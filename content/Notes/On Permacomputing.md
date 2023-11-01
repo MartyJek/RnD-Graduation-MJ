@@ -4,12 +4,7 @@ date:
 tags:
   - pmc
   - techno-aesthetics
-  - permacomputing
-  - techno-aesthetics
-  - permacomputing
   - selfhosting
-  - memories
-  - archive
 ---
 
 **Links**:<br>
