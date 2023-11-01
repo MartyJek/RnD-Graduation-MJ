@@ -83,12 +83,6 @@ ___
 **Links**:<br>
 **Source**: [[A pluriverse of local worlds - a review of Computing within Limits related terminology and practices]]<br>
 ___
-
-___
-
-
-[[So]]
-
 # The Role of Computer Graphics in Ecomedia
 
 
@@ -97,18 +91,3 @@ ___
 ___
 
 # Big-Tech < Small-Tech
-## Comparing and Mapping 'Small Tech' related terminology and practices
-
-**Links**:<br>
-**Source**: [[A pluriverse of local worlds - a review of Computing within Limits related terminology and practices]]<br>
-___
-
-___
-
-
-[[So]]
-
-# The Role of Computer Graphics in Ecomedia
-
-
-

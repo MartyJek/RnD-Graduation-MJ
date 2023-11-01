@@ -14,7 +14,7 @@
 
 >[!Question] Next Reads
 >
->1. [[Aesthetics]]
+
 
 
 >
