@@ -1,11 +1,20 @@
 {
 	"nodes":[
 		{"id":"6046f7399ae78d5e","x":-229,"y":-227,"width":250,"height":60,"color":"4","type":"text","text":"# [[ECOMEDIA]]"},
-		{"id":"91b0750fd2dd7336","x":-613,"y":84,"width":250,"height":50,"type":"text","text":"## "},
-		{"id":"3a89e5f201f37dfa","x":-229,"y":-500,"width":250,"height":60,"type":"text","text":"# ECOART"}
+		{"id":"91b0750fd2dd7336","x":-613,"y":84,"width":293,"height":136,"type":"text","text":"## environmental impact of media forms"},
+		{"id":"3a89e5f201f37dfa","x":-229,"y":-500,"width":250,"height":60,"type":"text","text":"# ECOART"},
+		{"id":"fdce1f6d08fb8424","x":60,"y":88,"width":380,"height":128,"type":"text","text":"## cultural representations of the environment"},
+		{"id":"91fdfd9c9b1fb03f","x":-1260,"y":422,"width":411,"height":136,"type":"text","text":"## [[Ecomedia#Keywords for Environmental Studies]]"},
+		{"id":"220b1f2a8f7f715d","x":-602,"y":441,"width":271,"height":98,"type":"text","text":"## Media as environment"},
+		{"id":"cfd9e809d3e63a5c","x":91,"y":439,"width":319,"height":100,"type":"text","text":"## Environment through media"}
 	],
 	"edges":[
 		{"id":"cab064ffd073feea","fromNode":"6046f7399ae78d5e","fromSide":"bottom","toNode":"91b0750fd2dd7336","toSide":"top"},
-		{"id":"a901a83015f410c3","fromNode":"3a89e5f201f37dfa","fromSide":"bottom","toNode":"6046f7399ae78d5e","toSide":"top"}
+		{"id":"a901a83015f410c3","fromNode":"3a89e5f201f37dfa","fromSide":"bottom","toNode":"6046f7399ae78d5e","toSide":"top"},
+		{"id":"ae44361ad6911a8d","fromNode":"6046f7399ae78d5e","fromSide":"bottom","toNode":"fdce1f6d08fb8424","toSide":"top"},
+		{"id":"c2c0d99aaf88474e","fromNode":"91b0750fd2dd7336","fromSide":"right","toNode":"fdce1f6d08fb8424","toSide":"left","toEnd":"none"},
+		{"id":"0e424bc03302d09e","fromNode":"91b0750fd2dd7336","fromSide":"bottom","toNode":"220b1f2a8f7f715d","toSide":"top"},
+		{"id":"25220f3e4875d936","fromNode":"91fdfd9c9b1fb03f","fromSide":"right","toNode":"220b1f2a8f7f715d","toSide":"left"},
+		{"id":"acdffb9ffca90bec","fromNode":"fdce1f6d08fb8424","fromSide":"bottom","toNode":"cfd9e809d3e63a5c","toSide":"top"}
 	]
 }
