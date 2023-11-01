@@ -8,11 +8,23 @@ tags:
 ---
 
 **Links**: <br>[[Ecomedia.canvas]]<br>
-**Source**: [Wikipedia](https://en.wikipedia.org/wiki/Ecomedia)<br>
+**Source**: 
 ___
 > **Ecomedia** is a field of study that deals with the relationship between non-print media and the natural environment. Generally, this is divided into <u>two domains:</u> ==cultural representations of the environment== in media and ==environmental impact of media forms.==
 >
 > The first domain, the environment in media, is very broad and can potentially include any form of media that deals with an environmental issue.  The second domain, environmental impacts and concerns of media, focuses on the environmental impacts at every level production of media projects and seeks to make media as sustainable as possible
+> — [Wikipedia](https://en.wikipedia.org/wiki/Ecomedia)
 ___
+
+# Keywords for Environmental Studies
+
+>Because they arise from an inaugural estrangement and denaturalization of the dominant print environment, ecomedia projects are natively critical about the materiality of their objects and methods in a way traditional single-medium environmental disciplines often are not.
+
+>The complementarity of subject matter and critical approach in the field gives it an excellent vantage on many serious contemporary environmental problems in which the “objective” scientific issues cannot easily be separated from the aesthetic and social ones.
+
+
+Adamson, Joni, et al. “23 - Ecomedia.” _Keywords for Environmental Studies_, New York University Press, New York, NY, 2016, pp. 75–76.
+___
+
 
 Marks , Laura U., and Radek Przedpełski. “Bandwidth Imperialism and Small-File Media.” _Post45_, 21 Apr. 2021, post45.org/2021/04/bandwidth-imperialism-and-small-file-media/.
