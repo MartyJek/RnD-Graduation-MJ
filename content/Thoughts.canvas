@@ -1,15 +1,19 @@
 {
 	"nodes":[
 		{"id":"fd9bf5e3927c4f46","type":"text","text":"![[On Permacomputing#Transitioning into postdigital techno-aesthetics]]","x":620,"y":-620,"width":940,"height":140},
-		{"id":"1ce48f0ed2e5829f","x":1800,"y":-626,"width":865,"height":152,"type":"text","text":"![[On Permacomputing#Transitioning into postdigital techno-aesthetics#'Hard vs. 'Soft' Permacomputing]]"},
+		{"id":"1ce48f0ed2e5829f","type":"text","text":"![[On Permacomputing#Transitioning into postdigital techno-aesthetics#'Hard vs. 'Soft' Permacomputing]]","x":1800,"y":-626,"width":865,"height":152},
 		{"id":"82eb113d753dc25e","type":"text","text":"# Thoughts","x":-640,"y":277,"width":250,"height":60},
 		{"id":"67cf46b270380e2b","type":"text","text":"## [[On Permacomputing]]","x":-120,"y":-160,"width":368,"height":57},
-		{"id":"3ffa4a632e55edaf","x":620,"y":-197,"width":1009,"height":131,"type":"text","text":"![[On Permacomputing#PMC Principles x Computer Graphics]]"}
+		{"id":"3ffa4a632e55edaf","type":"text","text":"![[On Permacomputing#PMC Principles x Computer Graphics]]","x":620,"y":-197,"width":1009,"height":131},
+		{"id":"182b446c0ec99c16","type":"text","text":"# On Research","x":-1070,"y":693,"width":310,"height":50},
+		{"id":"8a5f960b3fc7ab8d","type":"text","text":"## Convergent and divergent thinking in Desktop research ","x":-1136,"y":1240,"width":442,"height":181}
 	],
 	"edges":[
 		{"id":"2109bc04dc8fe838","fromNode":"82eb113d753dc25e","fromSide":"right","toNode":"67cf46b270380e2b","toSide":"left"},
 		{"id":"dcd4459e10a316f4","fromNode":"67cf46b270380e2b","fromSide":"right","toNode":"fd9bf5e3927c4f46","toSide":"left"},
 		{"id":"38b2693d6ffee469","fromNode":"fd9bf5e3927c4f46","fromSide":"right","toNode":"1ce48f0ed2e5829f","toSide":"left"},
-		{"id":"748cc08189ae35ab","fromNode":"67cf46b270380e2b","fromSide":"right","toNode":"3ffa4a632e55edaf","toSide":"left"}
+		{"id":"748cc08189ae35ab","fromNode":"67cf46b270380e2b","fromSide":"right","toNode":"3ffa4a632e55edaf","toSide":"left"},
+		{"id":"39b7bf42776c987a","fromNode":"82eb113d753dc25e","fromSide":"bottom","toNode":"182b446c0ec99c16","toSide":"top"},
+		{"id":"2fb1c9000cc23e7a","fromNode":"182b446c0ec99c16","fromSide":"bottom","toNode":"8a5f960b3fc7ab8d","toSide":"top"}
 	]
 }

@@ -3,20 +3,14 @@ draft: false
 date: 
 tags:
   - permacomputing
-  - selfhosting
-  - memories
-  - archive
 ---
 
 ___
 
 >What are the resisting forces that keep us from practising Permacomputing?
 
+- propaganda (ads)
 - [[Ignorance is bliss|convenience]]
-- technological FOMO
-- 
+- technological FOMO (propaganda)
 ___
 
-
-**Links**:<br>
-**Source**: <br>
