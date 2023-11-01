@@ -6,7 +6,8 @@
 		{"id":"fdce1f6d08fb8424","x":60,"y":88,"width":380,"height":128,"type":"text","text":"## cultural representations of the environment"},
 		{"id":"91fdfd9c9b1fb03f","x":-1260,"y":422,"width":411,"height":136,"type":"text","text":"## [[Ecomedia#Keywords for Environmental Studies]]"},
 		{"id":"220b1f2a8f7f715d","x":-602,"y":441,"width":271,"height":98,"type":"text","text":"## Media as environment"},
-		{"id":"cfd9e809d3e63a5c","x":91,"y":439,"width":319,"height":100,"type":"text","text":"## Environment through media"}
+		{"id":"cfd9e809d3e63a5c","x":91,"y":439,"width":319,"height":100,"type":"text","text":"## Environment through media"},
+		{"id":"42e0663951718426","x":-1260,"y":800,"width":400,"height":400,"type":"file","file":"Notes/Bandwidth Imperialism and Small-File Media - Post45.md"}
 	],
 	"edges":[
 		{"id":"cab064ffd073feea","fromNode":"6046f7399ae78d5e","fromSide":"bottom","toNode":"91b0750fd2dd7336","toSide":"top"},

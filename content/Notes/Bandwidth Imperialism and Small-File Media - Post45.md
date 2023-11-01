@@ -12,7 +12,7 @@ tags:
 ___
 # Abstract
 
->We understand the provocation of "new filmic geographies" in two ways: as [[media geopolitics]], explored in the first part by Laura, and as [[media geopoetics]], explored in the second part by Radek. Our contributions are united by disdain for the ideology of unlimited media access and admiration for the artists and hackers who transform limited tech nical means into social and aesthetic abundance.
+>We understand the provocation of "new filmic geographies" in two ways: as [[media geopolitics]], explored in the first part by Laura, and as [[media geopoetics]], explored in the second part by Radek. Our contributions are united by disdain for the ideology of unlimited media access and admiration for the artists and hackers who transform limited tech nical means into social and aesthetic abundance.[^1]
 
 
 # New Filmic Geographies
@@ -21,7 +21,7 @@ ___
 
 
 ___
-
+[^1]: Marks , Laura U., and Radek Przedpełski. “Bandwidth Imperialism and Small-File Media.” _Post45_, 21 Apr. 2021, post45.org/2021/04/bandwidth-imperialism-and-small-file-media/.
 **Type:**
 
 **Author**:

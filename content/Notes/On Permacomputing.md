@@ -5,6 +5,9 @@ tags:
   - pmc
   - techno-aesthetics
   - selfhosting
+  - permacomputing
+  - memories
+  - archive
 ---
 
 **Links**:<br>
@@ -75,10 +78,17 @@ ___
 
 # Comparing and Mapping 'Small Tech' related terminology and practices
 
-**Links**:<br>
+**Links**: [[PMC Pluriverse.canvas|PMC Pluriverse]]<br>
 **Source**: [[A pluriverse of local worlds - a review of Computing within Limits related terminology and practices]]<br>
 ___
 # The Role of Computer Graphics in Ecomedia
+
+**Links**:<br>[media minimization - PMC wiki](https://permacomputing.net/media_minimization/)<br>[[Ecomedia]]<br>
+**Source**: <br>
+___
+
+___
+
 
 
 

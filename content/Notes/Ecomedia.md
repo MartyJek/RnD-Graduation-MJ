@@ -2,9 +2,12 @@
 draft: false
 date: 
 tags:
-- ecomedia
-- sustainability
-- permacomputing
+  - ecomedia
+  - sustainability
+  - permacomputing
+  - selfhosting
+  - memories
+  - archive
 ---
 
 **Links**: <br>[[Ecomedia.canvas]]<br>
@@ -29,9 +32,20 @@ ___
    
 2. another that follows environmental ideas and images as they are disseminated and remixed across various media (environment through media).
 
+___
+## Bandwidth Imperialism and Small-File Media - Post45
 
-[^1]: Adamson, Joni, et al. “23 - Ecomedia.” _Keywords for Environmental Studies_, New York University Press, New York, NY, 2016, pp. 75–76.
+**Links**:<br>[[Bandwidth Imperialism and Small-File Media - Post45]]<br>
+**Source**: <br>
+___
+
 ___
 
 
-Marks , Laura U., and Radek Przedpełski. “Bandwidth Imperialism and Small-File Media.” _Post45_, 21 Apr. 2021, post45.org/2021/04/bandwidth-imperialism-and-small-file-media/.
+
+
+
+
+[^1]: Adamson, Joni, et al. “23 - Ecomedia.” _Keywords for Environmental Studies_, New York University Press, New York, NY, 2016, pp. 75–76.
+
+
