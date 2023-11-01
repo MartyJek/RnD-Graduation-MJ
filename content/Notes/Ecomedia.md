@@ -25,12 +25,12 @@ ___
 
 >The complementarity of subject matter and critical approach in the field gives it an excellent vantage on many serious contemporary environmental problems in which the “objective” scientific issues cannot easily be separated from the aesthetic and social ones.
 
-## Two basic ecomedia approaches:
+## Two basic Ecomedia approaches:
 
-1. one that traces the physical footprint of our media practices to mount an environmental critique around resource depletion and other environmental concerns (media as environment)
+1. One that traces the physical footprint of our media practices to mount an environmental critique around resource depletion and other environmental concerns (media as environment)
 	- proceeds through extended engagement with the full environmental context of the production, distribution, consumption, and cultural afterlife of particular media genres and works, borrowing the network-tracing methodologies pioneered by science and technology studies and actor-network theory.
    
-2. another that follows environmental ideas and images as they are disseminated and remixed across various media (environment through media).
+2. Another that follows environmental ideas and images as they are disseminated and remixed across various media (environment through media).
 
 ___
 ## Bandwidth Imperialism and Small-File Media - Post45
@@ -38,6 +38,22 @@ ___
 **Links**:<br>[[Bandwidth Imperialism and Small-File Media - Post45]]<br>
 **Source**: <br>
 ___
+# Media Minimization
+
+**Links**:<br>
+**Source**: <br>[media minimization](https://permacomputing.net/media_minimization/)
+___
+>**Media minimization** refers to the [minimization](https://permacomputing.net/minimization/) of the kind of media that is usually high-bandwidth, such as images and videos.
+
+
+>**Media optimization** refers to the reduction of file size while keeping the appearance as close to the original as possible
+
+
+___
+
+
+
+
 
 ___
 
