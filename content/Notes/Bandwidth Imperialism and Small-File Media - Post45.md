@@ -12,10 +12,12 @@ tags:
 ___
 # Abstract
 
-We understand the provocation of "new filmic geographies" in two ways: as [[media geopolitics]], explored in the first part by Laura, and as [[media geopoetics]], explored in the second part by Radek. Our contributions are united by disdain for the ideology of unlimited media access and admiration for the artists and hackers who transform limited tech nical means into social and aesthetic abundance.
+>We understand the provocation of "new filmic geographies" in two ways: as [[media geopolitics]], explored in the first part by Laura, and as [[media geopoetics]], explored in the second part by Radek. Our contributions are united by disdain for the ideology of unlimited media access and admiration for the artists and hackers who transform limited tech nical means into social and aesthetic abundance.
 
 
+# New Filmic Geographies
 
+>"New filmic geographies" — invites us to celebrate audiences' increased capacity to access movies independent of their geographical location, thanks to streaming video. Doubtless this is a cosmopolitan and, to some degree, decolonizing development in cinema distribution, helping filmmakers find their audiences all over the world and connecting viewers to movies once obtainable only by the most determined efforts.
 
 
 ___
