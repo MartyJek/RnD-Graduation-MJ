@@ -13,5 +13,5 @@ ___
 
 ## Practice
 
-- [[Concept Plan]]
+- [[Concept Plan V1]]
 

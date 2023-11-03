@@ -14,13 +14,14 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 - [x] [[W6]]
 - [x] [[W7]]
 - [x] [[W8 –  Autumn break + Midterms]]
-- [ ] [[W9]]
+- [x] [[W9]]
+- [ ] [[W10 - shader experiments, visual presentation]]
 
 # Practice
 
 ## Concepting 
 
-**[[Concept Plan]]**
+**[[Concept Plan V1]]**
 
 # Theory
 

@@ -2,15 +2,11 @@
 draft: false
 date: 
 tags:
+  - pmc
   - ecomedia
-  - sustainability
-  - permacomputing
-  - selfhosting
-  - memories
-  - archive
 ---
 
-**Links**: <br>[[Ecomedia.canvas]]<br>
+**Links**: <br>[[Ecomedia.canvas]]<br>[[Small File Media Festival]]<br>
 **Source**: 
 ___
 > **Ecomedia** is a field of study that deals with the relationship between non-print media and the natural environment. Generally, this is divided into <u>two domains:</u> ==cultural representations of the environment== in media and ==environmental impact of media forms.==
@@ -50,6 +46,15 @@ ___
 
 
 ___
+# The Small-File Technique
+
+**Links**:<br>[[Small File Media Festival]]<br>[[Bandwidth Imperialism and Small-File Media - Post45]]<br>
+**Source**: <br>[Small-File Solutions – Small File Media Festival](https://smallfile.ca/ecomedia/)
+___
+![[Pasted image 20231102152704.png|]]
+*Small-File image exposing the file size and processing duration in the metadata*
+___
+
 
 
 

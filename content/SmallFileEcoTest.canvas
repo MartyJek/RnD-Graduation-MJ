@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"c49d4d8cf9eab6b8","type":"file","file":"assets/images/Untitled00000000.mp4","x":-416,"y":-232,"width":400,"height":400},
+		{"id":"1940f6a6cf9c29bf","type":"text","text":"*Original file:* ","x":-440,"y":240,"width":500,"height":79}
+	],
+	"edges":[]
+}
