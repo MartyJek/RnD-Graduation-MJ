@@ -15,13 +15,18 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 - [x] [[W7]]
 - [x] [[W8 –  Autumn break + Midterms]]
 - [x] [[W9]]
-- [ ] [[W10 - shader experiments, visual presentation]]
+- [x] [[W10 - shader experiments, visual presentation]]
+- [ ] [[W11 - Start interactive work]]
 
 # Practice
 
 ## Concepting 
 
 **[[Concept Plan V1]]**
+
+## Prototyping
+
+[[Towards Ecomedia in Video Graphics]]
 
 # Theory
 
@@ -37,14 +42,15 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 
 ## Thoughts 💭
 ### On Permacomputing
-  - [[On Permacomputing#Transitioning into postdigital techno-aesthetics]]
-   
+- [[On Permacomputing#Transitioning into postdigital techno-aesthetics]]
     - [[On Permacomputing#'Hard vs. 'Soft' Permacomputing]] 
-    - [[On Permacomputing#The postdigital in permacomputing aesthetics]]<br> <br>
-  - [[On Permacomputing# PMC Principles x Computer Graphics]]
-      
+    - [[On Permacomputing#The postdigital in permacomputing aesthetics]]<br>
+- [[On Permacomputing# PMC Principles x Computer Graphics]]
+
+## On Ecomedia
+- [[On Ecomedia]]
 ### On Self-Hosting
-  - [[memory graveyard - a haiku]]
+- [[memory graveyard - a haiku]]
 
 ## Literature
 

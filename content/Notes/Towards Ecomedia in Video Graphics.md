@@ -54,25 +54,69 @@ ___
 
 ![[1.mp4]]
 
-# September
+# September - November
 
 ## Time 4 PMC: Permacomputing Workshops (self-hosting, Linux...)
 
-![[IMG_8545.jpg]]![[IMG_0066.jpg]]
+![[IMG_8545.jpg|400]]![[IMG_0066.jpg|300]]
 
 ___
 
-# Small-File Ecomedia
+## Small-File Ecomedia
 
-[[Small File Media Festival#Small-File Solutions]]
+**Link:**<br>[[Small File Media Festival#Small-File Solutions]]<br>[[On Ecomedia#The Problem with Small-File]]
 
-## Experiments on Ecomedia
+### Small-File Compression Test
 
-![[IMG_0087.png|300]]
+>Testing out the Small-File guidelines to create their compressed Ecomedia
 
+![[Untitled00000000.mp4]]
+*Original 3D render, rendered with Cycles*
 
-![[Pasted image 20231102165844.png|300]]
+![[Pasted image 20231106075755.png]]
+![[Pasted image 20231106075835.png]]
 
-*Source: [Dither - Wikipedia](https://en.wikipedia.org/wiki/Dither)
+![[Pasted image 20231106075858.png]]
+
 
 ___
+
+### Experiments on Ecomedia
+
+#### Uncovering Virtualism
+
+![[Pasted image 20231102152704.png]]
+*Small-File Film still containing metadata of file size + processing time*
+
+___
+#### Prototyping
+
+![[Vandaworld_001_davinci_OHW-HUD.mov]]
+*Original Blender viewport preview with Wattage Metadata (numbers, graph)*
+___<br>
+![[Vandaworld_001_davinci_OHW-HUD_24kbs.mov]]
+Compressed in Davinci with <u>24kbs</u> (==2.66mb/min==) <br>
+
+![[Vandaworld_001_davinci_OHW-HUD_HBCompression.mp4]]
+*Original File compressed in Handbreak: ~1.22mb/min* <br>
+___
+#### Lofi Shader Experiments
+
+![[Shader Experiments 001_HB_35RF.mp4]]
+*timelapse of shader experiments in Blender, screen capture, ~1.47mb/min*
+
+___
+#### Next
+- Playing with 
+	- Colour Palettes
+	- Dithering
+
+
+# November - 
+
+## Working on the installation 
+
+
+![[IMG_0105.jpg|300]]
+
+![[IMG_0107.jpg|300]]

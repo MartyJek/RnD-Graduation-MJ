@@ -12,11 +12,9 @@ ___
 >  
 >  [viznut](http://viznut.fi/en/)
 
+# Permacomputing 2020
 
-# Texts
-
-## [Permacomputing 2020](http://viznut.fi/texts-en/permacomputing.html)
-
+**Source:**<br>[Permacomputing | viznut](http://viznut.fi/texts-en/permacomputing.html)
 ### 1. Problem
 
 - Overconsumption of (artificial) energy = Progress
@@ -27,7 +25,7 @@ ___
 	- make the world more complex than less
 	- slower instead of faster
 
->Instead of amplifying the users' intelligence, they rather amplify their stupidity.
+>[[Reinventing how we use computers#We don’t have computers anymore. We have content consuming devices.|Instead of amplifying the users' intelligence, they rather amplify their stupidity]]
 
 
 #### 1.5 Solution
@@ -92,8 +90,8 @@ Many people prefer to consume their audiovisual media at resolutions and data ra
 
 There are countless ways, most of them still undiscovered, to make low and moderate data complexities look good — sometimes good enough that increased resolution would no longer improve them. Even compression artifacts might look so pleasant that people would actually prefer to have them.
 
-For extreme realism, perfection, detail and sharpness, people would prefer to look at nature.
-### On Displays
+[[For extreme realism, perfection, detail and sharpness, people would prefer to look at nature.]]
+#### On Displays
 
 >Whenever bright external light is available, displays should be able to use it instead of competing against it with their own backlight. (See: [Transflective LCD](https://en.wikipedia.org/wiki/Transflective_liquid-crystal_display))
 
@@ -106,7 +104,10 @@ ___
 [Technology and the Character of Contemporary Life - Wikipedia](https://en.wikipedia.org/wiki/Technology_and_the_Character_of_Contemporary_Life)
 
 
-## [Permacomputing Update (2021)](http://viznut.fi/texts-en/permacomputing_update_2021.html)
+
+# Permacomputing Update (2021)
+
+**Source:**<br>[Permacomputing Update 2021 | viznut](http://viznut.fi/texts-en/permacomputing_update_2021.html)
 
 ### 6.0 Permacomputing Practice
 
@@ -123,7 +124,10 @@ One way to deal with huge platforms is to create "pockets of simplicity" such as
  >in order to actually create something that represents permacomputing, one needs to make a lot of specific design decisions.
 
 
-## [Maximalism and Virtualism](http://viznut.fi/texts-en/maximalism_virtualism.html)
+# Maximalism and Virtualism
+
+**Source:**<br>[Maximalism and Virtualism | viznut](http://viznut.fi/texts-en/maximalism_virtualism.html)
+___
 
 **Max**
 
@@ -149,8 +153,10 @@ Virtualism also appears in IT metaphors. For example, the word 'cloud' refers to
 
 
 
-## Digital Aesthetics, environmental change and the subcultures of computer art
+# Digital Aesthetics, environmental change and the subcultures of computer art
 
+**Source:**<br>
+___
 ### Abstract 
 
 For decades, the development of information technology has been characterized by a very strong ==growth orientation, which is now coming to an end with the fading of Moore's Law and environmental change.== Academic research in computing has only recently begun to wake up to the fact that there are limits to growth, and that a more fundamental paradigm shift is required to achieve sustainable computing; mere technical tinkering is not enough. Growth-centricity has also dictated the development of digital esthetics, which will thus need to change as well. I suggest that the guidelines for this change should be sought in subcultures of computer art whose esthetic ideals are very different from the mainstream Maximalism and Virtualism – the self-serving glorification of the big and plentiful and the hiding of the technical basis of things. I have chosen demo art, chip music, pixel graphics and glitch art as examples of these subcultures. The ideals of "digitality" are also being challenged by post-digitality, so I will also look at these subcultures through this concept. I will conclude with reflections on the possible impacts of environmental change on digital esthetics and computing more generally, and on the ways in which computer art subcultures could play a pioneering role in these developments.
@@ -166,11 +172,10 @@ For decades, the development of information technology has been characterized by
 >Whenever a technical invention enables more to be done with less, it is used to accelerate the quantitative growth more to do more with more. This phenomenon is called the Jevons paradox
 
 #### 2.1 Maximalism
+
 >In everyday computing, the Maximalist esthetic is often associated with the pursuit of the most accurate, sharp and realistic image possible, for example in games or video content. This is a relatively unimaginative goal - everyone knows what reality looks like – and at the same time impossible: the sharpeyed will learn to distinguish even the most faithful imitations from the real thing.
 
 #### 2.2 Virtualism
 
->Even the physical nature of the phone is Virtualist – its monolithic nature and lack of moving parts keep its internal structure as hidden from the user as possible.
-
-Revealing hidden layers of virtualism through Glitch art:
+>Even the physical nature of the phone is Virtualist – its monolithic nature and lack of moving parts keep its internal structure as hidden from the user as possible. Revealing hidden layers of virtualism through Glitch art:
 >Rosa Menkman (2011, 13-14), the ideal of perfect, mirror-like, noise-free data transmission is a kind of holy grail that can be approached indefinitely but never reached. Glitch art, practiced by Menkman, critiques this ideal by highlighting the glitches and errors, thus also revealing hidden layers of abstraction.

@@ -4,6 +4,7 @@ date:
 tags:
   - permacomputing
 source: https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html
+Links: "[[Permacomputing]]"
 ---
 
 ___
