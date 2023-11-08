@@ -66,13 +66,6 @@ ___
 
 [[Small File Media Festival#Small-File Solutions]]
 
-
-
-
-
-
-
-
 ## Experiments on Ecomedia
 
 ![[IMG_0087.png|300]]
