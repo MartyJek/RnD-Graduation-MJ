@@ -32,21 +32,18 @@ ___
 
 2. *How can I explore and ==make aware of== sustainable approaches in computer graphics and media streaming through an interactive media installation?*
 
-Andy: 
-- how can i communicate...
-- why is it a media installation?
-- wie chani lüt zum thema permacomputing en erfahrig 
-- how can i communicate the issue of permacomputing through...
-- not I (me, self), aber wie cha mini audience permacomputing erfahre?
-- im allgemein: Was mach ich denn?
-- wie chani min style mit permacomputing vermittle
-
-
-
 >==Who is your audience?==
 
 >this is already too specific, why is the media installation the answer to your question?
 ___
 
-3. How can I 
+Andy: 
+- how can i communicate...
+- why is it a media installation?
+- wie chani lüt zum thema permacomputing en erfahrig 
+- how can i communicate the issue of today's extractivist ICT culture through permacomputing practices...
+- not I (me, self), aber wie cha mini audience permacomputing erfahre?
+- im allgemein: Was mach ich denn?
+- wie chani min style mit permacomputing vermittle
 
+3. How can

@@ -1,4 +1,4 @@
-___
+*___*
 # Introduction
 
 	![[Untitled_Artwork.jpg]]
@@ -45,7 +45,7 @@ ___
 			- e.g. attaching a Wattmeter in each computational component of the installation 
 		
 	- the overarching system of ICT maximalisation
-		- **through** the postdigital aesthetics of the medium being displayed
+		- **through** the content of the medium being displayed
 <br>
 ___
 # Concept Draft 
@@ -60,11 +60,6 @@ ___
 2. Postdigital Aesthetics
 
 ![[IMG_0077.jpg]]
-
-# Mise-en-place
-
-
-
 
 ___
 # Moodboard

@@ -17,22 +17,35 @@ ___
 
 # Keywords for Environmental Studies[^1]
 
->Because they arise from an inaugural estrangement and denaturalization of the dominant print environment, ecomedia projects are natively critical about the materiality of their objects and methods in a way traditional single-medium environmental disciplines often are not.
+>Because they arise from an inaugural estrangement and denaturalization of the dominant print environment, Ecomedia projects are natively critical about the materiality of their objects and methods in a way traditional single-medium environmental disciplines often are not.
 
 >The complementarity of subject matter and critical approach in the field gives it an excellent vantage on many serious contemporary environmental problems in which the “objective” scientific issues cannot easily be separated from the aesthetic and social ones.
 
-## Two basic Ecomedia approaches:
+# Two basic Ecomedia approaches:
 
-1. One that traces the physical footprint of our media practices to mount an environmental critique around resource depletion and other environmental concerns (media as environment)
-	- proceeds through extended engagement with the full environmental context of the production, distribution, consumption, and cultural afterlife of particular media genres and works, borrowing the network-tracing methodologies pioneered by science and technology studies and actor-network theory.
-   
-2. Another that follows environmental ideas and images as they are disseminated and remixed across various media (environment through media).
+## Media as Environment
+
+One that traces the physical footprint of our media practices to mount an environmental critique around resource depletion and other environmental concerns **(media as environment)**
+	- proceeds through extended engagement with the **full environmental context** of the production, distribution, consumption, and cultural afterlife of particular media genres and works, borrowing the network-tracing methodologies pioneered by science and technology studies and actor-network theory.
+
+### Full Environmental Context
+
+>In what areas do (digital) media contribute to environmental decay?
+
+1. Production
+	- Creation
+	- Outputting/Rendering
+2. Distribution
+3. Displaying/Consuming
+## Environment through Media
+
+ Another that follows environmental ideas and images as they are disseminated and remixed across various media (environment through media).
 
 ___
 ## Bandwidth Imperialism and Small-File Media - Post45
 
 **Links**:<br>[[Bandwidth Imperialism and Small-File Media - Post45]]<br>
-**Source**: <br>
+**Source**: <br>[Bandwidth Imperialism and Small-File Media - Post45](https://post45.org/2021/04/bandwidth-imperialism-and-small-file-media/)<br>
 ___
 # Media Minimization
 

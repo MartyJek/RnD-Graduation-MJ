@@ -21,10 +21,7 @@ ___
 ___
 # Hardware
 
->[[Postdigital Experiments]]
-
 >[[Prototyping Installation]]
-
 
 
 

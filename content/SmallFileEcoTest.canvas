@@ -3,10 +3,6 @@
 		{"id":"22eab2c90c91a110","type":"group","x":-436,"y":-252,"width":1098,"height":792,"color":"1","label":"Orig"},
 		{"id":"6320240c79b1dbf0","type":"group","x":-436,"y":1740,"width":1118,"height":680,"color":"4","label":"Compressed 480px"},
 		{"id":"4b57bd4d2140d2ab","type":"group","x":-436,"y":820,"width":1118,"height":680,"color":"3","label":"Compressed 1080px"},
-		{"id":"d48efe01e5461889","type":"file","file":"assets/images/Pasted image 20231105191322.png","x":43,"y":1760,"width":286,"height":400},
-		{"id":"6b1a0ba43f4266e0","type":"file","file":"assets/images/Untitled00000000_hb_compression_480p.mp4","x":-416,"y":1760,"width":400,"height":400},
-		{"id":"c5076e39da84a3e1","type":"file","file":"assets/images/Pasted image 20231105191332.png","x":373,"y":1760,"width":289,"height":399},
-		{"id":"c76225947c9bdded","type":"text","text":"*Compressed file N°2 (Rotterdam, 2022, 0:04, 0.089mb, ~5 min .processing time, 480pxX480px, 24fps)* \n- 0.089mb/4sec = ==1.32 mb/min==\n\n\n","x":-416,"y":2200,"width":500,"height":200},
 		{"id":"1940f6a6cf9c29bf","type":"text","text":"*Original file: Untitled00000000.mp4 (Rotterdam, 2022, 0:04, 9.57mb, ~5 min. processing time, 1080x1080px, 24fps)\n- rendered in Cycles (physically-based path traced render)*\n- 9.57mb, 4 sec ==(= 143.55mb/min)==\n","x":-416,"y":220,"width":500,"height":260},
 		{"id":"c49d4d8cf9eab6b8","type":"file","file":"assets/images/Untitled00000000.mp4","x":-416,"y":-232,"width":400,"height":400},
 		{"id":"99ad83723928e788","type":"file","file":"assets/images/Pasted image 20231105184003.png","x":40,"y":-232,"width":285,"height":400},
@@ -14,7 +10,11 @@
 		{"id":"517dd808611a3968","type":"file","file":"assets/images/Untitled00000000_hb_compression.mp4","x":-416,"y":840,"width":400,"height":400},
 		{"id":"33396d43e93c0508","type":"text","text":"*Compressed file: (Rotterdam, 2022, 0:04, 0.333mb, ~5 min. processing time, 1080x1080px, 24fps)*\n- 0.333mb/4sec = ==4.9mb/min==\n\n","x":-416,"y":1280,"width":500,"height":200},
 		{"id":"9e5ca15acfceec9f","type":"file","file":"assets/images/Pasted image 20231105191032.png","x":40,"y":840,"width":289,"height":400},
-		{"id":"c65f8651f94b4dec","type":"file","file":"assets/images/Pasted image 20231105191054.png","x":373,"y":840,"width":289,"height":400}
+		{"id":"c65f8651f94b4dec","type":"file","file":"assets/images/Pasted image 20231105191054.png","x":373,"y":840,"width":289,"height":400},
+		{"id":"d48efe01e5461889","type":"file","file":"assets/images/Pasted image 20231105191322.png","x":43,"y":1760,"width":286,"height":400},
+		{"id":"6b1a0ba43f4266e0","type":"file","file":"assets/images/Untitled00000000_hb_compression_480p.mp4","x":-416,"y":1760,"width":400,"height":400},
+		{"id":"c5076e39da84a3e1","type":"file","file":"assets/images/Pasted image 20231105191332.png","x":373,"y":1760,"width":289,"height":399},
+		{"id":"c76225947c9bdded","type":"text","text":"*Compressed file N°2 (Rotterdam, 2022, 0:04, 0.089mb, ~5 min .processing time, 480pxX480px, 24fps)* \n- 0.089mb/4sec = ==1.32 mb/min==\n\n\n","x":-416,"y":2200,"width":500,"height":200}
 	],
 	"edges":[]
 }
