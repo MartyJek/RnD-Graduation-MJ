@@ -25,7 +25,7 @@ ___
 	- make the world more complex than less
 	- slower instead of faster
 
->[[Reinventing how we use computers#We don’t have computers anymore. We have content consuming devices.|Instead of amplifying the users' intelligence, they rather amplify their stupidity]]
+>[[Content Consuming Devices#We don’t have computers anymore. We have content consuming devices.|Instead of amplifying the users' intelligence, they rather amplify their stupidity]]
 
 
 #### 1.5 Solution

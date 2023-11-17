@@ -17,7 +17,30 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 - [x] [[W9]]
 - [x] [[W10 - shader experiments, visual presentation]]
 - [ ] [[W11 - Start interactive work]]
+___
+# Practice
 
+## Concept
+
+**[[Concept Plan]]**
+
+## Prototyping
+>[[Prototyping]]
+### Software
+>[[Prototyping#Software]]
+### Hardware
+>[[Prototyping#Hardware]]
+
+___
+# Theory
+
+## Topics
+
+- [[Solarpunk]]
+	- [[Permacomputing]]
+	  - [[Permacomputing Aesthetics]]
+	  - [[Ecomedia]]
+___
 # Practice
 
 ## Concepting 
@@ -25,21 +48,17 @@ Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
 **[[Concept Plan V1]]**
 
 ## Prototyping
+>[[Prototyping]]
+### Software
+>[[Prototyping#Software]]
+### Hardware
+>[[Prototyping#Hardware]]
 
-[[Towards Ecomedia in Video Graphics]]
-
-# Theory
-
-## Topics
-
-- [[Solarpunk]]
-  - [[Permacomputing]]
-	  - [[Permacomputing Aesthetics]]
-	  - [[Ecomedia]]
+___  
 ## Deliverables
 
 **[[Midterm-Paper]]**
-
+[[Research Paper]]
 ## Thoughts 💭
 ### On Permacomputing
 - [[On Permacomputing#Transitioning into postdigital techno-aesthetics]]

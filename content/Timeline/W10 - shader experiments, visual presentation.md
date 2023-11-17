@@ -7,7 +7,7 @@ tags:
 ---
 ___
 > [!tip] Timeline
-> [[Towards Ecomedia in Video Graphics]]
+> [[Prototyping]]
 
 ___
 # INFO

@@ -50,12 +50,12 @@ Take your product category and then shuffle in a random idea. If creative sparks
 
 Entrepreneur James Altucher is an [enthusiastic advocate](http://www.jamesaltucher.com/2012/04/how-to-have-great-ideas/) of this approach:
 
-> When I started Stockpickr it was the mating of my ideas on the Internet with my ideas for a new hedge fund. The best ideas always come from mating. Think of Hollywood. When they pitch an idea its never just “I have this idea”. Its always “It’s James Bond meets Titanic”
+> When I started Stockpickr it was the mating of my ideas on the Internet with my ideas for a new hedge fund. The best ideas always come from mating. Think of Hollywood. When they pitch an idea its never just “I have this idea”. Its always “It’s James Bond mee I ts Titanic”
 
 An obvious example of this would be Vitamin Water. A more creative beverage idea might be to combine soda and music, so that the bottle can be used as a musical instrument during consumption.
 
 ![](https://miro.medium.com/v2/resize:fit:600/1*-og9wsjPWtl30eqkXfkYQA.jpeg)
-
+''
 One should keep in mind that while cross-pollination is a fun approach, it can also be scattershot. So to avoid this Gunpei Yokoi would often cross-pollinate ideas with and under the constraint of what he called ‘withered technologies.’
 
 **Avoiding the Cutting Edge**

@@ -89,7 +89,7 @@ So,
 
 # 5 Permacomputing and Nostalgia
 
->In societies vastly dominated by technological novelty, economic growth, and technosolutionism, [[Reinventing how we use computers#We don’t have computers anymore. We have content consuming devices.|the relationship with time is difficult to dissociate from consumerism.]]
+>In societies vastly dominated by technological novelty, economic growth, and technosolutionism, [[Content Consuming Devices#We don’t have computers anymore. We have content consuming devices.|the relationship with time is difficult to dissociate from consumerism.]]
 
 >At the same time, there is an important aspect of retro-computing activities that can also challenge this argument: technical accessibility. It should not be underestimated that for many hackers, artists, designers and modders, the appeal of retro-computing lies in the relatively low-threshold capacity to augment, adapt or tinker with old equipment. From discrete components, socketed chips, annotated PCB layouts, and thick service manuals and schematics, retro-computing turns the maximalist notion of computational potential on its head. Even if everything is relative, and that black boxes of the past are just as closed as those of today, old machines are simply easier to take apart and understand. So if permacomputing could be aligned with retro-computing, it would be through some of the retro-computing subcultures that use so-called obsolete technology in radically different contexts because of its plasticity
 

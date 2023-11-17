@@ -63,7 +63,7 @@ ___
 
 #### Amplify Awareness + Expose everything
 
-> [[Reinventing how we use computers#We don’t have computers anymore. We have content consuming devices.| We don’t have computers anymore. We have content consuming devices ]]
+> [[Content Consuming Devices#We don’t have computers anymore. We have content consuming devices.| We don’t have computers anymore. We have content consuming devices ]]
 
 - How can I make aware of mindful computing through my art?
 - In what ways can I expose evil maximalist tendencies of ICT culture?

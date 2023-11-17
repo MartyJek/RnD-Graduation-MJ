@@ -5,7 +5,7 @@
 
 >[!TIP] Next Step
 >- [x] [[Small File Media Festival]]: Resources ✅ 2023-11-01
->- [ ] [[Crappy Everyday Tech Bingo]]: Find inspiration on visualising ICT failures
+>- [x] [[Crappy Everyday Tech Bingo]]: Find inspiration on visualising ICT failures
 >- [x] Compare and note down: What are my PMC principles, relevant to my CG practices? ✅ 2023-11-01
 
 
