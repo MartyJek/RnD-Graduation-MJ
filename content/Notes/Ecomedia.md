@@ -69,17 +69,6 @@ ___
 ___
 
 
-
-
-
-
-___
-
-
-
-
-
-
 [^1]: Adamson, Joni, et al. “23 - Ecomedia.” _Keywords for Environmental Studies_, New York University Press, New York, NY, 2016, pp. 75–76.
 
 
