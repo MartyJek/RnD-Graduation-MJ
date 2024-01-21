@@ -14,3 +14,5 @@ The following guidelines are not a set of absolute rules, but the plan should at
 - Economic aspects. 
 - Societal aspects. 
 - Planning and deadlines (these can be a combination of personal and formal).
+
+	
