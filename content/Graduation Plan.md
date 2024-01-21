@@ -15,4 +15,6 @@ The following guidelines are not a set of absolute rules, but the plan should at
 - Societal aspects. 
 - Planning and deadlines (these can be a combination of personal and formal).
 
-	
+___
+
+[[Moodboard - Graduation Plan.canvas]]
