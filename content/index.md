@@ -61,10 +61,9 @@ ___
     - [[On Permacomputing#'Hard vs. 'Soft' Permacomputing]] <br>
 - [[On Permacomputing# PMC Principles x Computer Graphics]]
 
-#### On Ecomedia
+#### On Graduating
 
-- [[On Ecomedia]]
-___
+[[On Graduating]]
 ## Literature
 
 ### Minor
