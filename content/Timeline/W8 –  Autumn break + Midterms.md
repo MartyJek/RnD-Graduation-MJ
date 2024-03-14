@@ -3,7 +3,7 @@ ___
 
 ## Theory
 
-- [x] [[Midterm-Paper]]
+- [x] [[Minor - Midterm-Paper]]
 
 ## Practice
 
@@ -13,5 +13,5 @@ ___
 
 ## Practice
 
-- [[Concept Plan]]
+- [[Minor - Concept Plan]]
 

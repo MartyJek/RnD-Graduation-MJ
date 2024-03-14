@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"83cdf476b80fa935","type":"file","file":"assets/images/giraffe_v1.jpg","x":-93,"y":-168,"width":283,"height":400},
+		{"id":"33ab08556f12d987","type":"file","file":"assets/images/image.jpg","x":-800,"y":-731,"width":670,"height":811},
+		{"id":"b3bbd772edeb0e86","type":"file","file":"assets/images/IMG_0087.png","x":960,"y":-3200,"width":1303,"height":2229},
+		{"id":"ea23033703258512","type":"file","file":"assets/images/IMG_0149.jpg","x":-791,"y":861,"width":400,"height":300},
+		{"id":"a43f7f24a340c0d4","type":"file","file":"assets/images/Pasted image 20231019131013.png","x":-2775,"y":1760,"width":2384,"height":2910},
+		{"id":"73763d1e42915c1b","type":"file","file":"assets/images/Pasted image 20230923140206.png","x":560,"y":2227,"width":2637,"height":1978},
+		{"id":"7ed1f3c1aa40d15b","type":"file","file":"assets/images/Pasted image 20231023145827.jpg","x":1035,"y":-798,"width":1688,"height":630},
+		{"id":"256be7f45101bf08","type":"file","file":"assets/images/IMG_0078.jpg","x":-4000,"y":-2745,"width":960,"height":1319},
+		{"id":"9b254da5b5b81a33","type":"text","text":"Animation ","x":-8412,"y":-3630,"width":250,"height":60},
+		{"id":"62a4614528e8a571","type":"text","text":"Vewn","x":-9048,"y":-3317,"width":250,"height":60},
+		{"id":"0e42258e1911b9b5","type":"text","text":"Ultimately, it is the blend of Vincent’s humor and poignant themes that make her work stand out. Without the absurdity and humor, her films would be borderline nihilistic; without the themes, they would be funny but lacking in deeper meaning. Internal struggles, social isolation and the end of the world — all are on Victoria Vincent’s mind, and all are woven into her films for viewers to interpret and resonate with","x":-8752,"y":-3257,"width":681,"height":292}
+	],
+	"edges":[
+		{"id":"26df11e1b31d4ed2","fromNode":"9b254da5b5b81a33","fromSide":"bottom","toNode":"62a4614528e8a571","toSide":"top"}
+	]
+}

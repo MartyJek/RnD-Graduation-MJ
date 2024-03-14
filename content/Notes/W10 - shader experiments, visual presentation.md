@@ -7,7 +7,7 @@ tags:
 ---
 ___
 > [!tip] Timeline
-> [[Prototyping]]
+> [[Minor - Prototyping]]
 
 ___
 # INFO

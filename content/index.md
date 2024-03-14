@@ -1,35 +1,39 @@
 ---
-title: 🌿 Research Garden — Minor Digital Craft
+title: R&D | Graduation - Martynus Jekentaite
+tags:
+  - aesthetics
+  - ecomedia
+  - permacomputing
+  - pmc
+  - Solarpunk
+  - techno-maximalism
 ---
+# INFO
 
-Welcome to my hypertext-digital-research-garden for the Minor Digital Craft.
+[Ine Sign-up](https://pad.riseup.net/p/DCresearch-Ine-keep)
 
+[Worksheets for doing research » MyWdKA Support](https://static.mywdka.nl/researchstation/2024/02/15/9523/)
+
+___
+# Inspiration
+
+https://www.are.na/martynus-jekentaite/channels
+
+
+___
 
 # Timeline
 
-- [x] [[W2]]
-- [x] [[W3]]
-- [x] [[W4]]
-- [x] [[W5]]
-- [x] [[W6]]
-- [x] [[W7]]
-- [x] [[W8 –  Autumn break + Midterms]]
-- [x] [[W9]]
-- [x] [[W10 - shader experiments, visual presentation]]
-- [ ] [[W11 - Start interactive work]]
-___
+## [[Graduation Plan ]]
+## Idea
+
+
+
+
 # Practice
 
-## Concept
+- [[Towards Ecomedia in Computer Graphics]]
 
-**[[Concept Plan]]**
-
-## Prototyping
->[[Prototyping]]
-### Software
->[[Prototyping#Software]]
-### Hardware
->[[Prototyping#Hardware]]
 
 ___
 # Theory
@@ -40,44 +44,47 @@ ___
 	- [[Permacomputing]]
 	  - [[Permacomputing Aesthetics]]
 	  - [[Ecomedia]]
+
+
+## Research
+
+- [[Research Question]]
+
+
 ___
-# Practice
 
-## Concepting 
+## Thoughts... 💭
 
-**[[Concept Plan V1]]**
+#### On Permacomputing
 
-## Prototyping
->[[Prototyping]]
-### Software
->[[Prototyping#Software]]
-### Hardware
->[[Prototyping#Hardware]]
-
-___  
-## Deliverables
-
-**[[Midterm-Paper]]**
-[[Research Paper]]
-## Thoughts 💭
-### On Permacomputing
 - [[On Permacomputing#Transitioning into postdigital techno-aesthetics]]
-    - [[On Permacomputing#'Hard vs. 'Soft' Permacomputing]] 
-    - [[On Permacomputing#The postdigital in permacomputing aesthetics]]<br>
+    - [[On Permacomputing#'Hard vs. 'Soft' Permacomputing]] <br>
 - [[On Permacomputing# PMC Principles x Computer Graphics]]
 
-## On Ecomedia
-- [[On Ecomedia]]
-### On Self-Hosting
-- [[memory graveyard - a haiku]]
+#### On Ecomedia
 
+- [[On Ecomedia]]
+___
 ## Literature
 
-| <div style="width:100px">Title</div> | <div style="width:100px">Author(s)</div> | <div style="width:40px">Type</div> | Keywords |
-| --- | --- | --- | --- |
-| What is 'post-digital? | Florian Cramer | Journal | #postdigital #aesthetics 
-| Digital Esthetics, environmental change and the subcultures of computer art | V Heikkilä | paper | #permacomputing, #aesthetics, |
-| On techno-aesthetics | Gilbert Simondon | Letter/Essay | #techno-aesthetics; architecture
-| Should Data Expire? Entropy and Permanence in Digital Landscapes (2022) | Ash Honor | Essay | data; the Cloud; problematization; #self-hosting|
-| All Watched Over by Machines of Loving Graze (1967) | Richard Brautigan | poem | cybernetics; mutualism; idealism; utopia |
-| [[Permacomputing Aesthetics]] (2023) | A Mansoux<br>B Howell<br>D Barok<br> V Heikkilä | paper | #permacomputing, #aesthetics, computational culture, art, design, cultural production, constraints, environmentalism, electronic waste, re-use | 
+### Minor
+
+| <div style="width:100px">Title</div>                                        | <div style="width:100px">Author(s)</div>        | <div style="width:70px">Type</div> | Keywords                                                                                                                                       |     |
+| --------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| What is 'post-digital?                                                      | Florian Cramer                                  | Journal                            | #postdigital, #aesthetics                                                                                                                      |     |
+| Digital Esthetics, environmental change and the subcultures of computer art | V Heikkilä                                      | paper                              | #permacomputing,<br> #aesthetics                                                                                                               |     |
+| On techno-aesthetics                                                        | Gilbert Simondon                                | Letter/Essay                       | #techno-aesthetics; architecture                                                                                                               |     |
+|                                                                             |                                                 |                                    |                                                                                                                                                |     |
+| [[Permacomputing Aesthetics]] (2023)                                        | A Mansoux<br>B Howell<br>D Barok<br> V Heikkilä | article                            | #permacomputing, #aesthetics, computational culture, art, design, cultural production, constraints, environmentalism, electronic waste, re-use |     |
+
+
+### Graduation
+
+
+| <div style="width:100px">Title</div> | <div style="width:100px">Author(s)</div> | <div style="width:70px">Type</div> | Keywords |
+| ------------------------------------ | ---------------------------------------- | ---------------------------------- | -------- |
+|                                      |                                          |                                    |          |
+|                                      |                                          |                                    |          |
+|                                      |                                          |                                    |          |
+|                                      |                                          |                                    |          |
+|                                      |                                          |                                    |          |

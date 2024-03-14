@@ -27,7 +27,6 @@ ___
 
 >[[Content Consuming Devices#We don’t have computers anymore. We have content consuming devices.|Instead of amplifying the users' intelligence, they rather amplify their stupidity]]
 
-
 #### 1.5 Solution
 **Let nature do the work, finding solutions in problems**
 
@@ -135,7 +134,7 @@ ___
 
 >In everyday computing, Maximalism is concretely reflected in the way in which, for example, the content shared on social media is bloating up. Images attract more attention than text alone, and video clips attract more attention than still images. The service may even reward those who prefer to share videos – perhaps because video-watching is considered addictive. So even social media platforms are competing at whose service is the most maximalist.
 
->Maximalism is often connectede to the pursuit of photorealism, for example in video game graphics. Photorealism is a relatively unimaginative goal - everyone knows what reality looks like - and at the same time impossible: the sharp-eyed will learn to distinguish even the most faithful imitations from the real thing. This makes it convenient for the market: it is easy to make the "current generation" of reality-imitation look outdated by contrasting it to the "next generation", and this contrast also serves as a way to sell new microchips and devices.
+>Maximalism is often connected to the pursuit of photorealism, for example in video game graphics. Photorealism is a relatively unimaginative goal - everyone knows what reality looks like - and at the same time impossible: the sharp-eyed will learn to distinguish even the most faithful imitations from the real thing. This makes it convenient for the market: it is easy to make the "current generation" of reality-imitation look outdated by contrasting it to the "next generation", and this contrast also serves as a way to sell new microchips and devices.
 
 >Maximalism and planned obsolescence feed each other. When technologies from different 'generations' can be reduced to one-dimensional numbers, where bigger is always unequivocally better in every way, there is no justification for the existence of the old and it is easy to throw it into the waste heap. 4K is replaced by 8K, 4G is replaced by 5G. Despite the fact that there is already an unimaginable abundance of resources, this abundance shows up as temporary and inadequate.
 
