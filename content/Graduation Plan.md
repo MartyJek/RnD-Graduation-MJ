@@ -1,9 +1,6 @@
 
 **[[Film Plan]]**
 ___
-
-
-
 # Info
 
 At the end of your Minor, during Plus Weeks, you formulate a graduation plan (4ECTs). It is a dynamic working document that you can regularly consult during your graduation project process. The plan is a personal formulation of your own ambitions and ideas. It is a starting point that will change as you deepen your research and experimentation.  

@@ -1,5 +1,5 @@
 ---
-title: R&D | Graduation - Martynus Jekentaite
+title: R&D | Graduation
 tags:
   - aesthetics
   - ecomedia
@@ -8,29 +8,16 @@ tags:
   - Solarpunk
   - techno-maximalism
 ---
-# INFO
-
-TEST
-
-[Ine Sign-up](https://pad.riseup.net/p/DCresearch-Ine-keep)
-
-[Worksheets for doing research » MyWdKA Support](https://static.mywdka.nl/researchstation/2024/02/15/9523/)
-
-___
-# Inspiration
-
-https://www.are.na/martynus-jekentaite/channels
-
+are.na: https://www.are.na/martynus-jekentaite/channels
 
 ___
 
 # Timeline
 
 ## [[Graduation Plan ]]
-## Idea
 
 
-
+___
 
 # Practice
 
@@ -63,9 +50,9 @@ ___
     - [[On Permacomputing#'Hard vs. 'Soft' Permacomputing]] <br>
 - [[On Permacomputing# PMC Principles x Computer Graphics]]
 
-#### On Graduating
 
-[[On Graduating]]
+___
+
 ## Literature
 
 ### Minor
@@ -89,3 +76,15 @@ ___
 |                                      |                                          |                                    |          |
 |                                      |                                          |                                    |          |
 |                                      |                                          |                                    |          |
+___
+
+
+
+https://www.are.na/martynus-jekentaite/channels
+
+
+# INFO
+
+[Ine Sign-up](https://pad.riseup.net/p/DCresearch-Ine-keep)
+
+[Worksheets for doing research » MyWdKA Support](https://static.mywdka.nl/researchstation/2024/02/15/9523/)
