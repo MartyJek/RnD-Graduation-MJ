@@ -8,4 +8,4 @@ From a feedback session with Aymeric I came to the conclusion that i should retu
 - How do I engage multiple audiences on a nerdy topic? Relatability? Humour? 
 
 **preliminary research question**
->How 
+>
